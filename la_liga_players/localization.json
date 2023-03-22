@@ -1,0 +1,4918 @@
+{
+  "la_liga":[
+    {
+      "ID": "1",
+      "NAME": "Frenkie de Jong",
+      "COUNTRY": "nl NED",
+      "POSITION": "MF",
+      "CLUB": "Barcelona",
+      "AGE": "25",
+      "WEEK": "Euros -  721,154 (Libras -  636,916, Dolares - 766,254)",
+      "YEAR": "Euros -  37,500,000 (Libras -  33,119,607, Dolares - 39,845,201)"
+    },
+    {
+      "ID": "2",
+      "NAME": "Sergio Busquets",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Barcelona",
+      "AGE": "34",
+      "WEEK": "Euros -  711,538 (Libras -  628,423, Dolares - 756,037)",
+      "YEAR": "Euros -  37,000,000 (Libras -  32,678,013, Dolares - 39,313,932)"
+    },
+    {
+      "ID": "3",
+      "NAME": "Eden Hazard",
+      "COUNTRY": "be BEL",
+      "POSITION": "FW,MF",
+      "CLUB": "Real Madrid",
+      "AGE": "31",
+      "WEEK": "Euros -  600,962 (Libras -  530,763, Dolares - 638,545)",
+      "YEAR": "Euros -  31,250,000 (Libras -  27,599,673, Dolares - 33,204,334)"
+    },
+    {
+      "ID": "4",
+      "NAME": "Gerard Piqué",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Barcelona",
+      "AGE": "35",
+      "WEEK": "Euros -  567,308 (Libras -  501,040, Dolares - 602,786)",
+      "YEAR": "Euros -  29,500,000 (Libras -  26,054,091, Dolares - 31,344,892)"
+    },
+    {
+      "ID": "5",
+      "NAME": "Toni Kroos",
+      "COUNTRY": "de GER",
+      "POSITION": "MF",
+      "CLUB": "Real Madrid",
+      "AGE": "32",
+      "WEEK": "Euros -  468,846 (Libras -  414,080, Dolares - 498,167)",
+      "YEAR": "Euros -  24,380,000 (Libras -  21,532,161, Dolares - 25,904,694)"
+    },
+    {
+      "ID": "6",
+      "NAME": "Karim Benzema",
+      "COUNTRY": "fr FRA",
+      "POSITION": "FW",
+      "CLUB": "Real Madrid",
+      "AGE": "34",
+      "WEEK": "Euros -  461,538 (Libras -  407,626, Dolares - 490,402)",
+      "YEAR": "Euros -  24,000,000 (Libras -  21,196,549, Dolares - 25,500,929)"
+    },
+    {
+      "ID": "7",
+      "NAME": "David Alaba",
+      "COUNTRY": "at AUT",
+      "POSITION": "DF",
+      "CLUB": "Real Madrid",
+      "AGE": "30",
+      "WEEK": "Euros -  432,692 (Libras -  382,149, Dolares - 459,752)",
+      "YEAR": "Euros -  22,500,000 (Libras -  19,871,764, Dolares - 23,907,121)"
+    },
+    {
+      "ID": "8",
+      "NAME": "Luka Modrić",
+      "COUNTRY": "hr CRO",
+      "POSITION": "MF",
+      "CLUB": "Real Madrid",
+      "AGE": "36",
+      "WEEK": "Euros -  420,769 (Libras -  371,619, Dolares - 447,084)",
+      "YEAR": "Euros -  21,880,000 (Libras -  19,324,187, Dolares - 23,248,347)"
+    },
+    {
+      "ID": "9",
+      "NAME": "Jordi Alba",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Barcelona",
+      "AGE": "33",
+      "WEEK": "Euros -  400,577 (Libras -  353,785, Dolares - 425,628)",
+      "YEAR": "Euros -  20,830,000 (Libras -  18,396,838, Dolares - 22,132,681)"
+    },
+    {
+      "ID": "10",
+      "NAME": "Robert Lewandowski",
+      "COUNTRY": "pl POL",
+      "POSITION": "FW",
+      "CLUB": "Barcelona",
+      "AGE": "33",
+      "WEEK": "Euros -  400,577 (Libras -  353,785, Dolares - 425,628)",
+      "YEAR": "Euros -  20,830,000 (Libras -  18,396,838, Dolares - 22,132,681)"
+    },
+    {
+      "ID": "11",
+      "NAME": "Vinicius Júnior",
+      "COUNTRY": "br BRA",
+      "POSITION": "FW",
+      "CLUB": "Real Madrid",
+      "AGE": "22",
+      "WEEK": "Euros -  400,577 (Libras -  353,785, Dolares - 425,628)",
+      "YEAR": "Euros -  20,830,000 (Libras -  18,396,838, Dolares - 22,132,681)"
+    },
+    {
+      "ID": "12",
+      "NAME": "Jan Oblak",
+      "COUNTRY": "si SVN",
+      "POSITION": "GK",
+      "CLUB": "Atlético Madrid",
+      "AGE": "29",
+      "WEEK": "Euros -  400,577 (Libras -  353,785, Dolares - 425,628)",
+      "YEAR": "Euros -  20,830,000 (Libras -  18,396,838, Dolares - 22,132,681)"
+    },
+    {
+      "ID": "13",
+      "NAME": "Koke",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Atlético Madrid",
+      "AGE": "30",
+      "WEEK": "Euros -  307,692 (Libras -  271,751, Dolares - 326,935)",
+      "YEAR": "Euros -  16,000,000 (Libras -  14,131,032, Dolares - 17,000,619)"
+    },
+    {
+      "ID": "14",
+      "NAME": "Thibaut Courtois",
+      "COUNTRY": "be BEL",
+      "POSITION": "GK",
+      "CLUB": "Real Madrid",
+      "AGE": "30",
+      "WEEK": "Euros -  288,462 (Libras -  254,766, Dolares - 306,502)",
+      "YEAR": "Euros -  15,000,000 (Libras -  13,247,843, Dolares - 15,938,080)"
+    },
+    {
+      "ID": "15",
+      "NAME": "Antonio Rüdiger",
+      "COUNTRY": "de GER",
+      "POSITION": "DF",
+      "CLUB": "Real Madrid",
+      "AGE": "29",
+      "WEEK": "Euros -  280,385 (Libras -  247,633, Dolares - 297,920)",
+      "YEAR": "Euros -  14,580,000 (Libras -  12,876,903, Dolares - 15,491,814)"
+    },
+    {
+      "ID": "16",
+      "NAME": "João Félix",
+      "COUNTRY": "pt POR",
+      "POSITION": "FW",
+      "CLUB": "Atlético Madrid",
+      "AGE": "22",
+      "WEEK": "Euros -  280,385 (Libras -  247,633, Dolares - 297,920)",
+      "YEAR": "Euros -  14,580,000 (Libras -  12,876,903, Dolares - 15,491,814)"
+    },
+    {
+      "ID": "17",
+      "NAME": "Ansu Fati",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Barcelona",
+      "AGE": "19",
+      "WEEK": "Euros -  268,269 (Libras -  236,933, Dolares - 285,046)",
+      "YEAR": "Euros -  13,950,000 (Libras -  12,320,494, Dolares - 14,822,415)"
+    },
+    {
+      "ID": "18",
+      "NAME": "Jules Koundé",
+      "COUNTRY": "fr FRA",
+      "POSITION": "DF",
+      "CLUB": "Barcelona",
+      "AGE": "23",
+      "WEEK": "Euros -  260,577 (Libras -  230,139, Dolares - 276,873)",
+      "YEAR": "Euros -  13,550,000 (Libras -  11,967,218, Dolares - 14,397,399)"
+    },
+    {
+      "ID": "19",
+      "NAME": "Ivan Rakitić",
+      "COUNTRY": "hr CRO",
+      "POSITION": "MF",
+      "CLUB": "Sevilla",
+      "AGE": "34",
+      "WEEK": "Euros -  253,846 (Libras -  224,194, Dolares - 269,721)",
+      "YEAR": "Euros -  13,200,000 (Libras -  11,658,102, Dolares - 14,025,511)"
+    },
+    {
+      "ID": "20",
+      "NAME": "Raphinha",
+      "COUNTRY": "br BRA",
+      "POSITION": "FW",
+      "CLUB": "Barcelona",
+      "AGE": "25",
+      "WEEK": "Euros -  240,385 (Libras -  212,305, Dolares - 255,418)",
+      "YEAR": "Euros -  12,500,000 (Libras -  11,039,869, Dolares - 13,281,734)"
+    },
+    {
+      "ID": "21",
+      "NAME": "Aurélien Tchouaméni",
+      "COUNTRY": "fr FRA",
+      "POSITION": "MF",
+      "CLUB": "Real Madrid",
+      "AGE": "22",
+      "WEEK": "Euros -  240,385 (Libras -  212,305, Dolares - 255,418)",
+      "YEAR": "Euros -  12,500,000 (Libras -  11,039,869, Dolares - 13,281,734)"
+    },
+    {
+      "ID": "22",
+      "NAME": "Antoine Griezmann",
+      "COUNTRY": "fr FRA",
+      "POSITION": "FW,MF",
+      "CLUB": "Atlético Madrid",
+      "AGE": "31",
+      "WEEK": "Euros -  240,385 (Libras -  212,305, Dolares - 255,418)",
+      "YEAR": "Euros -  12,500,000 (Libras -  11,039,869, Dolares - 13,281,734)"
+    },
+    {
+      "ID": "23",
+      "NAME": "Ousmane Dembélé",
+      "COUNTRY": "fr FRA",
+      "POSITION": "FW",
+      "CLUB": "Barcelona",
+      "AGE": "25",
+      "WEEK": "Euros -  230,769 (Libras -  203,813, Dolares - 245,201)",
+      "YEAR": "Euros -  12,000,000 (Libras -  10,598,274, Dolares - 12,750,464)"
+    },
+    {
+      "ID": "24",
+      "NAME": "Saúl Ñíguez",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,DF",
+      "CLUB": "Atlético Madrid",
+      "AGE": "27",
+      "WEEK": "Euros -  230,769 (Libras -  203,813, Dolares - 245,201)",
+      "YEAR": "Euros -  12,000,000 (Libras -  10,598,274, Dolares - 12,750,464)"
+    },
+    {
+      "ID": "25",
+      "NAME": "Daniel Parejo",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Villarreal",
+      "AGE": "33",
+      "WEEK": "Euros -  208,269 (Libras -  183,941, Dolares - 221,294)",
+      "YEAR": "Euros -  10,830,000 (Libras -  9,564,943, Dolares - 11,507,294)"
+    },
+    {
+      "ID": "26",
+      "NAME": "Memphis",
+      "COUNTRY": "nl NED",
+      "POSITION": "FW",
+      "CLUB": "Barcelona",
+      "AGE": "28",
+      "WEEK": "Euros -  200,385 (Libras -  176,978, Dolares - 212,916)",
+      "YEAR": "Euros -  10,420,000 (Libras -  9,202,835, Dolares - 11,071,653)"
+    },
+    {
+      "ID": "27",
+      "NAME": "Dani Carvajal",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Real Madrid",
+      "AGE": "30",
+      "WEEK": "Euros -  200,385 (Libras -  176,978, Dolares - 212,916)",
+      "YEAR": "Euros -  10,420,000 (Libras -  9,202,835, Dolares - 11,071,653)"
+    },
+    {
+      "ID": "28",
+      "NAME": "Ferland Mendy",
+      "COUNTRY": "fr FRA",
+      "POSITION": "DF",
+      "CLUB": "Real Madrid",
+      "AGE": "27",
+      "WEEK": "Euros -  200,385 (Libras -  176,978, Dolares - 212,916)",
+      "YEAR": "Euros -  10,420,000 (Libras -  9,202,835, Dolares - 11,071,653)"
+    },
+    {
+      "ID": "29",
+      "NAME": "Ferrán Torres",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Barcelona",
+      "AGE": "22",
+      "WEEK": "Euros -  192,308 (Libras -  169,844, Dolares - 204,334)",
+      "YEAR": "Euros -  10,000,000 (Libras -  8,831,895, Dolares - 10,625,387)"
+    },
+    {
+      "ID": "30",
+      "NAME": "Marco Asensio",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Real Madrid",
+      "AGE": "26",
+      "WEEK": "Euros -  189,038 (Libras -  166,957, Dolares - 200,861)",
+      "YEAR": "Euros -  9,830,000 (Libras -  8,681,753, Dolares - 10,444,755)"
+    },
+    {
+      "ID": "31",
+      "NAME": "Álvaro Morata",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Atlético Madrid",
+      "AGE": "29",
+      "WEEK": "Euros -  188,462 (Libras -  166,447, Dolares - 200,248)",
+      "YEAR": "Euros -  9,800,000 (Libras -  8,655,257, Dolares - 10,412,879)"
+    },
+    {
+      "ID": "32",
+      "NAME": "Pedri",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Barcelona",
+      "AGE": "19",
+      "WEEK": "Euros -  180,385 (Libras -  159,314, Dolares - 191,666)",
+      "YEAR": "Euros -  9,380,000 (Libras -  8,284,318, Dolares - 9,966,613)"
+    },
+    {
+      "ID": "33",
+      "NAME": "Lucas Vázquez",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Real Madrid",
+      "AGE": "31",
+      "WEEK": "Euros -  180,385 (Libras -  159,314, Dolares - 191,666)",
+      "YEAR": "Euros -  9,380,000 (Libras -  8,284,318, Dolares - 9,966,613)"
+    },
+    {
+      "ID": "34",
+      "NAME": "Andreas Christensen",
+      "COUNTRY": "dk DEN",
+      "POSITION": "DF",
+      "CLUB": "Barcelona",
+      "AGE": "26",
+      "WEEK": "Euros -  173,077 (Libras -  152,860, Dolares - 183,901)",
+      "YEAR": "Euros -  9,000,000 (Libras -  7,948,706, Dolares - 9,562,848)"
+    },
+    {
+      "ID": "35",
+      "NAME": "Franck Kessié",
+      "COUNTRY": "ci CIV",
+      "POSITION": "MF",
+      "CLUB": "Barcelona",
+      "AGE": "25",
+      "WEEK": "Euros -  173,077 (Libras -  152,860, Dolares - 183,901)",
+      "YEAR": "Euros -  9,000,000 (Libras -  7,948,706, Dolares - 9,562,848)"
+    },
+    {
+      "ID": "36",
+      "NAME": "Marc-André ter Stegen",
+      "COUNTRY": "de GER",
+      "POSITION": "GK",
+      "CLUB": "Barcelona",
+      "AGE": "30",
+      "WEEK": "Euros -  173,077 (Libras -  152,860, Dolares - 183,901)",
+      "YEAR": "Euros -  9,000,000 (Libras -  7,948,706, Dolares - 9,562,848)"
+    },
+    {
+      "ID": "37",
+      "NAME": "Nacho",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Real Madrid",
+      "AGE": "32",
+      "WEEK": "Euros -  164,231 (Libras -  145,047, Dolares - 174,502)",
+      "YEAR": "Euros -  8,540,000 (Libras -  7,542,439, Dolares - 9,074,080)"
+    },
+    {
+      "ID": "38",
+      "NAME": "Eduardo Camavinga",
+      "COUNTRY": "fr FRA",
+      "POSITION": "MF",
+      "CLUB": "Real Madrid",
+      "AGE": "19",
+      "WEEK": "Euros -  160,192 (Libras -  141,480, Dolares - 170,211)",
+      "YEAR": "Euros -  8,330,000 (Libras -  7,356,969, Dolares - 8,850,947)"
+    },
+    {
+      "ID": "39",
+      "NAME": "Mariano",
+      "COUNTRY": "do DOM",
+      "POSITION": "FW",
+      "CLUB": "Real Madrid",
+      "AGE": "28",
+      "WEEK": "Euros -  160,192 (Libras -  141,480, Dolares - 170,211)",
+      "YEAR": "Euros -  8,330,000 (Libras -  7,356,969, Dolares - 8,850,947)"
+    },
+    {
+      "ID": "40",
+      "NAME": "Rodrygo",
+      "COUNTRY": "br BRA",
+      "POSITION": "FW",
+      "CLUB": "Real Madrid",
+      "AGE": "21",
+      "WEEK": "Euros -  160,192 (Libras -  141,480, Dolares - 170,211)",
+      "YEAR": "Euros -  8,330,000 (Libras -  7,356,969, Dolares - 8,850,947)"
+    },
+    {
+      "ID": "41",
+      "NAME": "Axel Witsel",
+      "COUNTRY": "be BEL",
+      "POSITION": "DF,MF",
+      "CLUB": "Atlético Madrid",
+      "AGE": "33",
+      "WEEK": "Euros -  160,192 (Libras -  141,480, Dolares - 170,211)",
+      "YEAR": "Euros -  8,330,000 (Libras -  7,356,969, Dolares - 8,850,947)"
+    },
+    {
+      "ID": "42",
+      "NAME": "Raúl García",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Athletic Club",
+      "AGE": "36",
+      "WEEK": "Euros -  160,000 (Libras -  141,310, Dolares - 170,006)",
+      "YEAR": "Euros -  8,320,000 (Libras -  7,348,137, Dolares - 8,840,322)"
+    },
+    {
+      "ID": "43",
+      "NAME": "Federico Valverde",
+      "COUNTRY": "uy URU",
+      "POSITION": "FW,MF",
+      "CLUB": "Real Madrid",
+      "AGE": "24",
+      "WEEK": "Euros -  156,346 (Libras -  138,083, Dolares - 166,124)",
+      "YEAR": "Euros -  8,130,000 (Libras -  7,180,331, Dolares - 8,638,440)"
+    },
+    {
+      "ID": "44",
+      "NAME": "Francis Coquelin",
+      "COUNTRY": "fr FRA",
+      "POSITION": "MF",
+      "CLUB": "Villarreal",
+      "AGE": "31",
+      "WEEK": "Euros -  148,269 (Libras -  130,950, Dolares - 157,542)",
+      "YEAR": "Euros -  7,710,000 (Libras -  6,809,391, Dolares - 8,192,173)"
+    },
+    {
+      "ID": "45",
+      "NAME": "Felipe",
+      "COUNTRY": "br BRA",
+      "POSITION": "DF",
+      "CLUB": "Atlético Madrid",
+      "AGE": "33",
+      "WEEK": "Euros -  145,385 (Libras -  128,402, Dolares - 154,477)",
+      "YEAR": "Euros -  7,560,000 (Libras -  6,676,913, Dolares - 8,032,793)"
+    },
+    {
+      "ID": "46",
+      "NAME": "Yannick Carrasco",
+      "COUNTRY": "be BEL",
+      "POSITION": "DF,MF",
+      "CLUB": "Atlético Madrid",
+      "AGE": "28",
+      "WEEK": "Euros -  145,385 (Libras -  128,402, Dolares - 154,477)",
+      "YEAR": "Euros -  7,560,000 (Libras -  6,676,913, Dolares - 8,032,793)"
+    },
+    {
+      "ID": "47",
+      "NAME": "Gerard Moreno",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Villarreal",
+      "AGE": "30",
+      "WEEK": "Euros -  144,231 (Libras -  127,383, Dolares - 153,251)",
+      "YEAR": "Euros -  7,500,000 (Libras -  6,623,921, Dolares - 7,969,040)"
+    },
+    {
+      "ID": "48",
+      "NAME": "Pau Torres",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Villarreal",
+      "AGE": "25",
+      "WEEK": "Euros -  144,231 (Libras -  127,383, Dolares - 153,251)",
+      "YEAR": "Euros -  7,500,000 (Libras -  6,623,921, Dolares - 7,969,040)"
+    },
+    {
+      "ID": "49",
+      "NAME": "Óliver Torres",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Sevilla",
+      "AGE": "27",
+      "WEEK": "Euros -  143,269 (Libras -  126,534, Dolares - 152,229)",
+      "YEAR": "Euros -  7,450,000 (Libras -  6,579,762, Dolares - 7,915,913)"
+    },
+    {
+      "ID": "50",
+      "NAME": "Álvaro Odriozola",
+      "COUNTRY": "es ESP",
+      "POSITION": "RB",
+      "CLUB": "Real Madrid",
+      "AGE": "26",
+      "WEEK": "Euros -  140,192 (Libras -  123,816, Dolares - 148,960)",
+      "YEAR": "Euros -  7,290,000 (Libras -  6,438,452, Dolares - 7,745,907)"
+    },
+    {
+      "ID": "51",
+      "NAME": "Éder Militão",
+      "COUNTRY": "br BRA",
+      "POSITION": "DF",
+      "CLUB": "Real Madrid",
+      "AGE": "24",
+      "WEEK": "Euros -  140,192 (Libras -  123,816, Dolares - 148,960)",
+      "YEAR": "Euros -  7,290,000 (Libras -  6,438,452, Dolares - 7,745,907)"
+    },
+    {
+      "ID": "52",
+      "NAME": "Ronald Araújo",
+      "COUNTRY": "uy URU",
+      "POSITION": "DF",
+      "CLUB": "Barcelona",
+      "AGE": "23",
+      "WEEK": "Euros -  134,615 (Libras -  118,891, Dolares - 143,034)",
+      "YEAR": "Euros -  7,000,000 (Libras -  6,182,327, Dolares - 7,437,771)"
+    },
+    {
+      "ID": "53",
+      "NAME": "Geoffrey Kondogbia",
+      "COUNTRY": "cf CTA",
+      "POSITION": "MF",
+      "CLUB": "Atlético Madrid",
+      "AGE": "29",
+      "WEEK": "Euros -  132,692 (Libras -  117,192, Dolares - 140,991)",
+      "YEAR": "Euros -  6,900,000 (Libras -  6,094,008, Dolares - 7,331,517)"
+    },
+    {
+      "ID": "54",
+      "NAME": "Nabil Fekir",
+      "COUNTRY": "fr FRA",
+      "POSITION": "MF",
+      "CLUB": "Betis",
+      "AGE": "29",
+      "WEEK": "Euros -  132,692 (Libras -  117,192, Dolares - 140,991)",
+      "YEAR": "Euros -  6,900,000 (Libras -  6,094,008, Dolares - 7,331,517)"
+    },
+    {
+      "ID": "55",
+      "NAME": "Gavi",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Barcelona",
+      "AGE": "17",
+      "WEEK": "Euros -  130,769 (Libras -  115,494, Dolares - 138,947)",
+      "YEAR": "Euros -  6,800,000 (Libras -  6,005,689, Dolares - 7,225,263)"
+    },
+    {
+      "ID": "56",
+      "NAME": "Rodrigo De Paul",
+      "COUNTRY": "ar ARG",
+      "POSITION": "MF",
+      "CLUB": "Atlético Madrid",
+      "AGE": "28",
+      "WEEK": "Euros -  128,269 (Libras -  113,286, Dolares - 136,291)",
+      "YEAR": "Euros -  6,670,000 (Libras -  5,890,874, Dolares - 7,087,133)"
+    },
+    {
+      "ID": "57",
+      "NAME": "Youssef En-Nesyri",
+      "COUNTRY": "ma MAR",
+      "POSITION": "FW",
+      "CLUB": "Sevilla",
+      "AGE": "25",
+      "WEEK": "Euros -  123,462 (Libras -  109,040, Dolares - 131,183)",
+      "YEAR": "Euros -  6,420,000 (Libras -  5,670,077, Dolares - 6,821,498)"
+    },
+    {
+      "ID": "58",
+      "NAME": "Suso",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Sevilla",
+      "AGE": "28",
+      "WEEK": "Euros -  121,154 (Libras -  107,002, Dolares - 128,731)",
+      "YEAR": "Euros -  6,300,000 (Libras -  5,564,094, Dolares - 6,693,994)"
+    },
+    {
+      "ID": "59",
+      "NAME": "Marcos Alonso",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Barcelona",
+      "AGE": "31",
+      "WEEK": "Euros -  120,192 (Libras -  106,153, Dolares - 127,709)",
+      "YEAR": "Euros -  6,250,000 (Libras -  5,519,935, Dolares - 6,640,867)"
+    },
+    {
+      "ID": "60",
+      "NAME": "Papu Gómez",
+      "COUNTRY": "ar ARG",
+      "POSITION": "FW,MF",
+      "CLUB": "Sevilla",
+      "AGE": "34",
+      "WEEK": "Euros -  120,192 (Libras -  106,153, Dolares - 127,709)",
+      "YEAR": "Euros -  6,250,000 (Libras -  5,519,935, Dolares - 6,640,867)"
+    },
+    {
+      "ID": "61",
+      "NAME": "Eric García",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Barcelona",
+      "AGE": "21",
+      "WEEK": "Euros -  115,385 (Libras -  101,906, Dolares - 122,601)",
+      "YEAR": "Euros -  6,000,000 (Libras -  5,299,137, Dolares - 6,375,232)"
+    },
+    {
+      "ID": "62",
+      "NAME": "Ander Herrera",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Athletic Club",
+      "AGE": "32",
+      "WEEK": "Euros -  115,385 (Libras -  101,906, Dolares - 122,601)",
+      "YEAR": "Euros -  6,000,000 (Libras -  5,299,137, Dolares - 6,375,232)"
+    },
+    {
+      "ID": "63",
+      "NAME": "Iñaki Williams",
+      "COUNTRY": "gh GHA",
+      "POSITION": "FW",
+      "CLUB": "Athletic Club",
+      "AGE": "28",
+      "WEEK": "Euros -  114,808 (Libras -  101,397, Dolares - 121,988)",
+      "YEAR": "Euros -  5,970,000 (Libras -  5,272,641, Dolares - 6,343,356)"
+    },
+    {
+      "ID": "64",
+      "NAME": "José Luis Gayà",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Valencia",
+      "AGE": "27",
+      "WEEK": "Euros -  112,115 (Libras -  99,019, Dolares - 119,127)",
+      "YEAR": "Euros -  5,830,000 (Libras -  5,148,995, Dolares - 6,194,601)"
+    },
+    {
+      "ID": "65",
+      "NAME": "Luiz Felipe",
+      "COUNTRY": "it ITA",
+      "POSITION": "DF",
+      "CLUB": "Betis",
+      "AGE": "25",
+      "WEEK": "Euros -  112,115 (Libras -  99,019, Dolares - 119,127)",
+      "YEAR": "Euros -  5,830,000 (Libras -  5,148,995, Dolares - 6,194,601)"
+    },
+    {
+      "ID": "66",
+      "NAME": "Gerónimo Rulli",
+      "COUNTRY": "ar ARG",
+      "POSITION": "GK",
+      "CLUB": "Villarreal",
+      "AGE": "30",
+      "WEEK": "Euros -  104,231 (Libras -  92,056, Dolares - 110,749)",
+      "YEAR": "Euros -  5,420,000 (Libras -  4,786,887, Dolares - 5,758,960)"
+    },
+    {
+      "ID": "67",
+      "NAME": "Gabriel Paulista",
+      "COUNTRY": "br BRA",
+      "POSITION": "DF",
+      "CLUB": "Valencia",
+      "AGE": "31",
+      "WEEK": "Euros -  102,500 (Libras -  90,527, Dolares - 108,910)",
+      "YEAR": "Euros -  5,330,000 (Libras -  4,707,400, Dolares - 5,663,331)"
+    },
+    {
+      "ID": "68",
+      "NAME": "Munir El Haddadi",
+      "COUNTRY": "ma MAR",
+      "POSITION": "MF,FW",
+      "CLUB": "Getafe",
+      "AGE": "26",
+      "WEEK": "Euros -  100,962 (Libras -  89,168, Dolares - 107,276)",
+      "YEAR": "Euros -  5,250,000 (Libras -  4,636,745, Dolares - 5,578,328)"
+    },
+    {
+      "ID": "69",
+      "NAME": "Sergi Roberto",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Barcelona",
+      "AGE": "30",
+      "WEEK": "Euros -  96,154 (Libras -  84,922, Dolares - 102,167)",
+      "YEAR": "Euros -  5,000,000 (Libras -  4,415,948, Dolares - 5,312,694)"
+    },
+    {
+      "ID": "70",
+      "NAME": "Iñigo Martínez",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Athletic Club",
+      "AGE": "31",
+      "WEEK": "Euros -  96,154 (Libras -  84,922, Dolares - 102,167)",
+      "YEAR": "Euros -  5,000,000 (Libras -  4,415,948, Dolares - 5,312,694)"
+    },
+    {
+      "ID": "71",
+      "NAME": "Fernando",
+      "COUNTRY": "br BRA",
+      "POSITION": "MF",
+      "CLUB": "Sevilla",
+      "AGE": "35",
+      "WEEK": "Euros -  93,654 (Libras -  82,714, Dolares - 99,511)",
+      "YEAR": "Euros -  4,870,000 (Libras -  4,301,133, Dolares - 5,174,563)"
+    },
+    {
+      "ID": "72",
+      "NAME": "Aïssa Mandi",
+      "COUNTRY": "dz ALG",
+      "POSITION": "DF",
+      "CLUB": "Villarreal",
+      "AGE": "30",
+      "WEEK": "Euros -  92,115 (Libras -  81,355, Dolares - 97,876)",
+      "YEAR": "Euros -  4,790,000 (Libras -  4,230,478, Dolares - 5,089,560)"
+    },
+    {
+      "ID": "73",
+      "NAME": "Raúl Albiol",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Villarreal",
+      "AGE": "36",
+      "WEEK": "Euros -  92,115 (Libras -  81,355, Dolares - 97,876)",
+      "YEAR": "Euros -  4,790,000 (Libras -  4,230,478, Dolares - 5,089,560)"
+    },
+    {
+      "ID": "74",
+      "NAME": "Borja Mayoral",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Getafe",
+      "AGE": "25",
+      "WEEK": "Euros -  92,115 (Libras -  81,355, Dolares - 97,876)",
+      "YEAR": "Euros -  4,790,000 (Libras -  4,230,478, Dolares - 5,089,560)"
+    },
+    {
+      "ID": "75",
+      "NAME": "Joan Jordán",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Sevilla",
+      "AGE": "28",
+      "WEEK": "Euros -  90,769 (Libras -  80,166, Dolares - 96,446)",
+      "YEAR": "Euros -  4,720,000 (Libras -  4,168,655, Dolares - 5,015,183)"
+    },
+    {
+      "ID": "76",
+      "NAME": "Denis Suárez",
+      "COUNTRY": "es ESP",
+      "POSITION": "AM",
+      "CLUB": "Celta Vigo",
+      "AGE": "28",
+      "WEEK": "Euros -  90,000 (Libras -  79,487, Dolares - 95,628)",
+      "YEAR": "Euros -  4,680,000 (Libras -  4,133,327, Dolares - 4,972,681)"
+    },
+    {
+      "ID": "77",
+      "NAME": "Juan Foyth",
+      "COUNTRY": "ar ARG",
+      "POSITION": "DF",
+      "CLUB": "Villarreal",
+      "AGE": "24",
+      "WEEK": "Euros -  88,077 (Libras -  77,789, Dolares - 93,585)",
+      "YEAR": "Euros -  4,580,000 (Libras -  4,045,008, Dolares - 4,866,427)"
+    },
+    {
+      "ID": "78",
+      "NAME": "Vedat Muriqi",
+      "COUNTRY": "xk KVX",
+      "POSITION": "FW",
+      "CLUB": "Mallorca",
+      "AGE": "28",
+      "WEEK": "Euros -  88,077 (Libras -  77,789, Dolares - 93,585)",
+      "YEAR": "Euros -  4,580,000 (Libras -  4,045,008, Dolares - 4,866,427)"
+    },
+    {
+      "ID": "79",
+      "NAME": "Stefan Savić",
+      "COUNTRY": "me MNE",
+      "POSITION": "DF",
+      "CLUB": "Atlético Madrid",
+      "AGE": "31",
+      "WEEK": "Euros -  86,538 (Libras -  76,430, Dolares - 91,950)",
+      "YEAR": "Euros -  4,500,000 (Libras -  3,974,353, Dolares - 4,781,424)"
+    },
+    {
+      "ID": "80",
+      "NAME": "Iker Muniain",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Athletic Club",
+      "AGE": "29",
+      "WEEK": "Euros -  84,615 (Libras -  74,731, Dolares - 89,907)",
+      "YEAR": "Euros -  4,400,000 (Libras -  3,886,034, Dolares - 4,675,170)"
+    },
+    {
+      "ID": "81",
+      "NAME": "Asier Illarramendi",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Real Sociedad",
+      "AGE": "32",
+      "WEEK": "Euros -  83,846 (Libras -  74,052, Dolares - 89,090)",
+      "YEAR": "Euros -  4,360,000 (Libras -  3,850,706, Dolares - 4,632,669)"
+    },
+    {
+      "ID": "82",
+      "NAME": "Unai Simón",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Athletic Club",
+      "AGE": "25",
+      "WEEK": "Euros -  83,654 (Libras -  73,882, Dolares - 88,885)",
+      "YEAR": "Euros -  4,350,000 (Libras -  3,841,874, Dolares - 4,622,043)"
+    },
+    {
+      "ID": "83",
+      "NAME": "Giovani Lo Celso",
+      "COUNTRY": "ar ARG",
+      "POSITION": "MF,FW",
+      "CLUB": "Villarreal",
+      "AGE": "26",
+      "WEEK": "Euros -  80,962 (Libras -  71,504, Dolares - 86,025)",
+      "YEAR": "Euros -  4,210,000 (Libras -  3,718,228, Dolares - 4,473,288)"
+    },
+    {
+      "ID": "84",
+      "NAME": "Yuri Berchiche",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Athletic Club",
+      "AGE": "32",
+      "WEEK": "Euros -  80,769 (Libras -  71,335, Dolares - 85,820)",
+      "YEAR": "Euros -  4,200,000 (Libras -  3,709,396, Dolares - 4,462,663)"
+    },
+    {
+      "ID": "85",
+      "NAME": "Alex Telles",
+      "COUNTRY": "br BRA",
+      "POSITION": "DF,FW",
+      "CLUB": "Sevilla",
+      "AGE": "29",
+      "WEEK": "Euros -  80,192 (Libras -  70,825, Dolares - 85,207)",
+      "YEAR": "Euros -  4,170,000 (Libras -  3,682,900, Dolares - 4,430,786)"
+    },
+    {
+      "ID": "86",
+      "NAME": "Marcão",
+      "COUNTRY": "br BRA",
+      "POSITION": "DF",
+      "CLUB": "Sevilla",
+      "AGE": "26",
+      "WEEK": "Euros -  80,192 (Libras -  70,825, Dolares - 85,207)",
+      "YEAR": "Euros -  4,170,000 (Libras -  3,682,900, Dolares - 4,430,786)"
+    },
+    {
+      "ID": "87",
+      "NAME": "Tanguy Nianzou",
+      "COUNTRY": "fr FRA",
+      "POSITION": "DF",
+      "CLUB": "Sevilla",
+      "AGE": "20",
+      "WEEK": "Euros -  80,192 (Libras -  70,825, Dolares - 85,207)",
+      "YEAR": "Euros -  4,170,000 (Libras -  3,682,900, Dolares - 4,430,786)"
+    },
+    {
+      "ID": "88",
+      "NAME": "Edinson Cavani",
+      "COUNTRY": "uy URU",
+      "POSITION": "FW",
+      "CLUB": "Valencia",
+      "AGE": "35",
+      "WEEK": "Euros -  80,192 (Libras -  70,825, Dolares - 85,207)",
+      "YEAR": "Euros -  4,170,000 (Libras -  3,682,900, Dolares - 4,430,786)"
+    },
+    {
+      "ID": "89",
+      "NAME": "Carles Pérez",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Celta Vigo",
+      "AGE": "24",
+      "WEEK": "Euros -  80,192 (Libras -  70,825, Dolares - 85,207)",
+      "YEAR": "Euros -  4,170,000 (Libras -  3,682,900, Dolares - 4,430,786)"
+    },
+    {
+      "ID": "90",
+      "NAME": "Germán Pezzella",
+      "COUNTRY": "ar ARG",
+      "POSITION": "DF",
+      "CLUB": "Betis",
+      "AGE": "31",
+      "WEEK": "Euros -  80,192 (Libras -  70,825, Dolares - 85,207)",
+      "YEAR": "Euros -  4,170,000 (Libras -  3,682,900, Dolares - 4,430,786)"
+    },
+    {
+      "ID": "91",
+      "NAME": "Roque Mesa",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Valladolid",
+      "AGE": "33",
+      "WEEK": "Euros -  80,000 (Libras -  70,655, Dolares - 85,003)",
+      "YEAR": "Euros -  4,160,000 (Libras -  3,674,068, Dolares - 4,420,161)"
+    },
+    {
+      "ID": "92",
+      "NAME": "Jesús Navas",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF,MF",
+      "CLUB": "Sevilla",
+      "AGE": "36",
+      "WEEK": "Euros -  76,923 (Libras -  67,938, Dolares - 81,734)",
+      "YEAR": "Euros -  4,000,000 (Libras -  3,532,758, Dolares - 4,250,155)"
+    },
+    {
+      "ID": "93",
+      "NAME": "José María Giménez",
+      "COUNTRY": "uy URU",
+      "POSITION": "DF",
+      "CLUB": "Atlético Madrid",
+      "AGE": "27",
+      "WEEK": "Euros -  76,923 (Libras -  67,938, Dolares - 81,734)",
+      "YEAR": "Euros -  4,000,000 (Libras -  3,532,758, Dolares - 4,250,155)"
+    },
+    {
+      "ID": "94",
+      "NAME": "Alfonso Pedraza",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Villarreal",
+      "AGE": "26",
+      "WEEK": "Euros -  76,154 (Libras -  67,258, Dolares - 80,916)",
+      "YEAR": "Euros -  3,960,000 (Libras -  3,497,431, Dolares - 4,207,653)"
+    },
+    {
+      "ID": "95",
+      "NAME": "Mikel Merino",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Real Sociedad",
+      "AGE": "26",
+      "WEEK": "Euros -  75,192 (Libras -  66,409, Dolares - 79,895)",
+      "YEAR": "Euros -  3,910,000 (Libras -  3,453,271, Dolares - 4,154,526)"
+    },
+    {
+      "ID": "96",
+      "NAME": "Justin Kluivert",
+      "COUNTRY": "nl NED",
+      "POSITION": "FW,MF",
+      "CLUB": "Valencia",
+      "AGE": "23",
+      "WEEK": "Euros -  72,115 (Libras -  63,692, Dolares - 76,625)",
+      "YEAR": "Euros -  3,750,000 (Libras -  3,311,961, Dolares - 3,984,520)"
+    },
+    {
+      "ID": "97",
+      "NAME": "David López",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Girona",
+      "AGE": "32",
+      "WEEK": "Euros -  69,231 (Libras -  61,144, Dolares - 73,560)",
+      "YEAR": "Euros -  3,600,000 (Libras -  3,179,482, Dolares - 3,825,139)"
+    },
+    {
+      "ID": "98",
+      "NAME": "Mikel Oyarzabal",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Real Sociedad",
+      "AGE": "25",
+      "WEEK": "Euros -  67,885 (Libras -  59,955, Dolares - 72,130)",
+      "YEAR": "Euros -  3,530,000 (Libras -  3,117,659, Dolares - 3,750,762)"
+    },
+    {
+      "ID": "99",
+      "NAME": "Ángel Correa",
+      "COUNTRY": "ar ARG",
+      "POSITION": "FW,MF",
+      "CLUB": "Atlético Madrid",
+      "AGE": "27",
+      "WEEK": "Euros -  67,308 (Libras -  59,445, Dolares - 71,517)",
+      "YEAR": "Euros -  3,500,000 (Libras -  3,091,163, Dolares - 3,718,885)"
+    },
+    {
+      "ID": "100",
+      "NAME": "Thomas Delaney",
+      "COUNTRY": "dk DEN",
+      "POSITION": "MF",
+      "CLUB": "Sevilla",
+      "AGE": "30",
+      "WEEK": "Euros -  66,731 (Libras -  58,936, Dolares - 70,904)",
+      "YEAR": "Euros -  3,470,000 (Libras -  3,064,668, Dolares - 3,687,009)"
+    },
+    {
+      "ID": "101",
+      "NAME": "Igor Zubeldia",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Real Sociedad",
+      "AGE": "25",
+      "WEEK": "Euros -  65,769 (Libras -  58,087, Dolares - 69,882)",
+      "YEAR": "Euros -  3,420,000 (Libras -  3,020,508, Dolares - 3,633,882)"
+    },
+    {
+      "ID": "102",
+      "NAME": "Alberto Moreno",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Villarreal",
+      "AGE": "30",
+      "WEEK": "Euros -  64,038 (Libras -  56,558, Dolares - 68,043)",
+      "YEAR": "Euros -  3,330,000 (Libras -  2,941,021, Dolares - 3,538,254)"
+    },
+    {
+      "ID": "103",
+      "NAME": "Thomas Lemar",
+      "COUNTRY": "fr FRA",
+      "POSITION": "MF",
+      "CLUB": "Atlético Madrid",
+      "AGE": "26",
+      "WEEK": "Euros -  62,500 (Libras -  55,199, Dolares - 66,409)",
+      "YEAR": "Euros -  3,250,000 (Libras -  2,870,366, Dolares - 3,453,251)"
+    },
+    {
+      "ID": "104",
+      "NAME": "Sergio Reguilón",
+      "COUNTRY": "es ESP",
+      "POSITION": "LB",
+      "CLUB": "Atlético Madrid",
+      "AGE": "25",
+      "WEEK": "Euros -  61,346 (Libras -  54,180, Dolares - 65,183)",
+      "YEAR": "Euros -  3,190,000 (Libras -  2,817,375, Dolares - 3,389,498)"
+    },
+    {
+      "ID": "105",
+      "NAME": "Alexander Sørloth",
+      "COUNTRY": "no NOR",
+      "POSITION": "FW",
+      "CLUB": "Real Sociedad",
+      "AGE": "26",
+      "WEEK": "Euros -  61,154 (Libras -  54,010, Dolares - 64,978)",
+      "YEAR": "Euros -  3,180,000 (Libras -  2,808,543, Dolares - 3,378,873)"
+    },
+    {
+      "ID": "106",
+      "NAME": "Arnaut Danjuma",
+      "COUNTRY": "nl NED",
+      "POSITION": "FW",
+      "CLUB": "Villarreal",
+      "AGE": "25",
+      "WEEK": "Euros -  60,192 (Libras -  53,161, Dolares - 63,957)",
+      "YEAR": "Euros -  3,130,000 (Libras -  2,764,383, Dolares - 3,325,746)"
+    },
+    {
+      "ID": "107",
+      "NAME": "Dani Ceballos",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Real Madrid",
+      "AGE": "25",
+      "WEEK": "Euros -  60,192 (Libras -  53,161, Dolares - 63,957)",
+      "YEAR": "Euros -  3,130,000 (Libras -  2,764,383, Dolares - 3,325,746)"
+    },
+    {
+      "ID": "108",
+      "NAME": "Adnan Januzaj",
+      "COUNTRY": "be BEL",
+      "POSITION": "FW,MF",
+      "CLUB": "Sevilla",
+      "AGE": "27",
+      "WEEK": "Euros -  60,000 (Libras -  52,991, Dolares - 63,752)",
+      "YEAR": "Euros -  3,120,000 (Libras -  2,755,551, Dolares - 3,315,121)"
+    },
+    {
+      "ID": "109",
+      "NAME": "Benjamin Lecomte",
+      "COUNTRY": "fr FRA",
+      "POSITION": "GK",
+      "CLUB": "Espanyol",
+      "AGE": "31",
+      "WEEK": "Euros -  59,423 (Libras -  52,482, Dolares - 63,139)",
+      "YEAR": "Euros -  3,090,000 (Libras -  2,729,056, Dolares - 3,283,245)"
+    },
+    {
+      "ID": "110",
+      "NAME": "Yeremi Pino",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Villarreal",
+      "AGE": "19",
+      "WEEK": "Euros -  57,692 (Libras -  50,953, Dolares - 61,300)",
+      "YEAR": "Euros -  3,000,000 (Libras -  2,649,569, Dolares - 3,187,616)"
+    },
+    {
+      "ID": "111",
+      "NAME": "Álex Collado",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Elche",
+      "AGE": "23",
+      "WEEK": "Euros -  57,692 (Libras -  50,953, Dolares - 61,300)",
+      "YEAR": "Euros -  3,000,000 (Libras -  2,649,569, Dolares - 3,187,616)"
+    },
+    {
+      "ID": "112",
+      "NAME": "Oriol Romeu",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Girona",
+      "AGE": "30",
+      "WEEK": "Euros -  57,692 (Libras -  50,953, Dolares - 61,300)",
+      "YEAR": "Euros -  3,000,000 (Libras -  2,649,569, Dolares - 3,187,616)"
+    },
+    {
+      "ID": "113",
+      "NAME": "Kasper Dolberg",
+      "COUNTRY": "dk DEN",
+      "POSITION": "FW",
+      "CLUB": "Sevilla",
+      "AGE": "24",
+      "WEEK": "Euros -  57,692 (Libras -  50,953, Dolares - 61,300)",
+      "YEAR": "Euros -  3,000,000 (Libras -  2,649,569, Dolares - 3,187,616)"
+    },
+    {
+      "ID": "114",
+      "NAME": "Matheus Cunha",
+      "COUNTRY": "br BRA",
+      "POSITION": "FW,MF",
+      "CLUB": "Atlético Madrid",
+      "AGE": "23",
+      "WEEK": "Euros -  57,692 (Libras -  50,953, Dolares - 61,300)",
+      "YEAR": "Euros -  3,000,000 (Libras -  2,649,569, Dolares - 3,187,616)"
+    },
+    {
+      "ID": "115",
+      "NAME": "Martín Zubimendi",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Real Sociedad",
+      "AGE": "23",
+      "WEEK": "Euros -  57,692 (Libras -  50,953, Dolares - 61,300)",
+      "YEAR": "Euros -  3,000,000 (Libras -  2,649,569, Dolares - 3,187,616)"
+    },
+    {
+      "ID": "116",
+      "NAME": "Willian José",
+      "COUNTRY": "br BRA",
+      "POSITION": "FW",
+      "CLUB": "Betis",
+      "AGE": "30",
+      "WEEK": "Euros -  57,692 (Libras -  50,953, Dolares - 61,300)",
+      "YEAR": "Euros -  3,000,000 (Libras -  2,649,569, Dolares - 3,187,616)"
+    },
+    {
+      "ID": "117",
+      "NAME": "Étienne Capoue",
+      "COUNTRY": "fr FRA",
+      "POSITION": "MF",
+      "CLUB": "Villarreal",
+      "AGE": "34",
+      "WEEK": "Euros -  56,154 (Libras -  49,594, Dolares - 59,666)",
+      "YEAR": "Euros -  2,920,000 (Libras -  2,578,913, Dolares - 3,102,613)"
+    },
+    {
+      "ID": "118",
+      "NAME": "David Silva",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Real Sociedad",
+      "AGE": "36",
+      "WEEK": "Euros -  55,769 (Libras -  49,255, Dolares - 59,257)",
+      "YEAR": "Euros -  2,900,000 (Libras -  2,561,250, Dolares - 3,081,362)"
+    },
+    {
+      "ID": "119",
+      "NAME": "Hugo Duro",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Valencia",
+      "AGE": "22",
+      "WEEK": "Euros -  55,577 (Libras -  49,085, Dolares - 59,053)",
+      "YEAR": "Euros -  2,890,000 (Libras -  2,552,418, Dolares - 3,070,737)"
+    },
+    {
+      "ID": "120",
+      "NAME": "Álex Berenguer",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Athletic Club",
+      "AGE": "27",
+      "WEEK": "Euros -  54,808 (Libras -  48,406, Dolares - 58,235)",
+      "YEAR": "Euros -  2,850,000 (Libras -  2,517,090, Dolares - 3,028,235)"
+    },
+    {
+      "ID": "121",
+      "NAME": "Marcos Acuña",
+      "COUNTRY": "ar ARG",
+      "POSITION": "DF,MF",
+      "CLUB": "Sevilla",
+      "AGE": "30",
+      "WEEK": "Euros -  54,615 (Libras -  48,236, Dolares - 58,031)",
+      "YEAR": "Euros -  2,840,000 (Libras -  2,508,258, Dolares - 3,017,610)"
+    },
+    {
+      "ID": "122",
+      "NAME": "Andriy Lunin",
+      "COUNTRY": "ua UKR",
+      "POSITION": "GK",
+      "CLUB": "Real Madrid",
+      "AGE": "23",
+      "WEEK": "Euros -  54,038 (Libras -  47,726, Dolares - 57,418)",
+      "YEAR": "Euros -  2,810,000 (Libras -  2,481,763, Dolares - 2,985,734)"
+    },
+    {
+      "ID": "123",
+      "NAME": "Dani García",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Athletic Club",
+      "AGE": "32",
+      "WEEK": "Euros -  53,269 (Libras -  47,047, Dolares - 56,601)",
+      "YEAR": "Euros -  2,770,000 (Libras -  2,446,435, Dolares - 2,943,232)"
+    },
+    {
+      "ID": "124",
+      "NAME": "Yassine Bounou",
+      "COUNTRY": "ma MAR",
+      "POSITION": "GK",
+      "CLUB": "Sevilla",
+      "AGE": "31",
+      "WEEK": "Euros -  52,885 (Libras -  46,707, Dolares - 56,192)",
+      "YEAR": "Euros -  2,750,000 (Libras -  2,428,771, Dolares - 2,921,981)"
+    },
+    {
+      "ID": "125",
+      "NAME": "Raúl de Tomás",
+      "COUNTRY": "es ESP",
+      "POSITION": "CF",
+      "CLUB": "Espanyol",
+      "AGE": "27",
+      "WEEK": "Euros -  51,731 (Libras -  45,688, Dolares - 54,966)",
+      "YEAR": "Euros -  2,690,000 (Libras -  2,375,780, Dolares - 2,858,229)"
+    },
+    {
+      "ID": "126",
+      "NAME": "Guido Rodríguez",
+      "COUNTRY": "ar ARG",
+      "POSITION": "MF",
+      "CLUB": "Betis",
+      "AGE": "28",
+      "WEEK": "Euros -  51,538 (Libras -  45,518, Dolares - 54,762)",
+      "YEAR": "Euros -  2,680,000 (Libras -  2,366,948, Dolares - 2,847,604)"
+    },
+    {
+      "ID": "127",
+      "NAME": "Nemanja Gudelj",
+      "COUNTRY": "rs SRB",
+      "POSITION": "DF,MF",
+      "CLUB": "Sevilla",
+      "AGE": "30",
+      "WEEK": "Euros -  50,769 (Libras -  44,839, Dolares - 53,944)",
+      "YEAR": "Euros -  2,640,000 (Libras -  2,331,620, Dolares - 2,805,102)"
+    },
+    {
+      "ID": "128",
+      "NAME": "Érik Lamela",
+      "COUNTRY": "ar ARG",
+      "POSITION": "FW,MF",
+      "CLUB": "Sevilla",
+      "AGE": "30",
+      "WEEK": "Euros -  50,577 (Libras -  44,669, Dolares - 53,740)",
+      "YEAR": "Euros -  2,630,000 (Libras -  2,322,788, Dolares - 2,794,477)"
+    },
+    {
+      "ID": "129",
+      "NAME": "Iago Aspas",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Celta Vigo",
+      "AGE": "34",
+      "WEEK": "Euros -  50,000 (Libras -  44,159, Dolares - 53,127)",
+      "YEAR": "Euros -  2,600,000 (Libras -  2,296,293, Dolares - 2,762,601)"
+    },
+    {
+      "ID": "130",
+      "NAME": "Hugo Mallo",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Celta Vigo",
+      "AGE": "31",
+      "WEEK": "Euros -  49,808 (Libras -  43,990, Dolares - 52,923)",
+      "YEAR": "Euros -  2,590,000 (Libras -  2,287,461, Dolares - 2,751,975)"
+    },
+    {
+      "ID": "131",
+      "NAME": "Yeray Álvarez",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Athletic Club",
+      "AGE": "27",
+      "WEEK": "Euros -  49,231 (Libras -  43,480, Dolares - 52,310)",
+      "YEAR": "Euros -  2,560,000 (Libras -  2,260,965, Dolares - 2,720,099)"
+    },
+    {
+      "ID": "132",
+      "NAME": "Héctor Bellerín",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Barcelona",
+      "AGE": "27",
+      "WEEK": "Euros -  48,077 (Libras -  42,461, Dolares - 51,084)",
+      "YEAR": "Euros -  2,500,000 (Libras -  2,207,974, Dolares - 2,656,347)"
+    },
+    {
+      "ID": "133",
+      "NAME": "Manu Trigueros",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Villarreal",
+      "AGE": "30",
+      "WEEK": "Euros -  48,077 (Libras -  42,461, Dolares - 51,084)",
+      "YEAR": "Euros -  2,500,000 (Libras -  2,207,974, Dolares - 2,656,347)"
+    },
+    {
+      "ID": "134",
+      "NAME": "Ander Capa",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF,MF",
+      "CLUB": "Athletic Club",
+      "AGE": "30",
+      "WEEK": "Euros -  48,077 (Libras -  42,461, Dolares - 51,084)",
+      "YEAR": "Euros -  2,500,000 (Libras -  2,207,974, Dolares - 2,656,347)"
+    },
+    {
+      "ID": "135",
+      "NAME": "Isco",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Sevilla",
+      "AGE": "30",
+      "WEEK": "Euros -  48,077 (Libras -  42,461, Dolares - 51,084)",
+      "YEAR": "Euros -  2,500,000 (Libras -  2,207,974, Dolares - 2,656,347)"
+    },
+    {
+      "ID": "136",
+      "NAME": "Samu Castillejo",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Valencia",
+      "AGE": "27",
+      "WEEK": "Euros -  48,077 (Libras -  42,461, Dolares - 51,084)",
+      "YEAR": "Euros -  2,500,000 (Libras -  2,207,974, Dolares - 2,656,347)"
+    },
+    {
+      "ID": "137",
+      "NAME": "Franco Cervi",
+      "COUNTRY": "ar ARG",
+      "POSITION": "MF",
+      "CLUB": "Celta Vigo",
+      "AGE": "28",
+      "WEEK": "Euros -  48,077 (Libras -  42,461, Dolares - 51,084)",
+      "YEAR": "Euros -  2,500,000 (Libras -  2,207,974, Dolares - 2,656,347)"
+    },
+    {
+      "ID": "138",
+      "NAME": "Kiko Casilla",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Getafe",
+      "AGE": "35",
+      "WEEK": "Euros -  46,154 (Libras -  40,763, Dolares - 49,040)",
+      "YEAR": "Euros -  2,400,000 (Libras -  2,119,655, Dolares - 2,550,093)"
+    },
+    {
+      "ID": "139",
+      "NAME": "Nico Williams",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Athletic Club",
+      "AGE": "20",
+      "WEEK": "Euros -  45,192 (Libras -  39,913, Dolares - 48,019)",
+      "YEAR": "Euros -  2,350,000 (Libras -  2,075,495, Dolares - 2,496,966)"
+    },
+    {
+      "ID": "140",
+      "NAME": "Sergi Darder",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Espanyol",
+      "AGE": "28",
+      "WEEK": "Euros -  44,038 (Libras -  38,894, Dolares - 46,793)",
+      "YEAR": "Euros -  2,290,000 (Libras -  2,022,504, Dolares - 2,433,214)"
+    },
+    {
+      "ID": "141",
+      "NAME": "Unai Núñez",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Celta Vigo",
+      "AGE": "25",
+      "WEEK": "Euros -  43,077 (Libras -  38,045, Dolares - 45,771)",
+      "YEAR": "Euros -  2,240,000 (Libras -  1,978,345, Dolares - 2,380,087)"
+    },
+    {
+      "ID": "142",
+      "NAME": "Álex Remiro",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Real Sociedad",
+      "AGE": "27",
+      "WEEK": "Euros -  42,885 (Libras -  37,875, Dolares - 45,567)",
+      "YEAR": "Euros -  2,230,000 (Libras -  1,969,513, Dolares - 2,369,461)"
+    },
+    {
+      "ID": "143",
+      "NAME": "Djené",
+      "COUNTRY": "tg TOG",
+      "POSITION": "DF",
+      "CLUB": "Getafe",
+      "AGE": "30",
+      "WEEK": "Euros -  42,308 (Libras -  37,366, Dolares - 44,954)",
+      "YEAR": "Euros -  2,200,000 (Libras -  1,943,017, Dolares - 2,337,585)"
+    },
+    {
+      "ID": "144",
+      "NAME": "Jaime Mata",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Getafe",
+      "AGE": "33",
+      "WEEK": "Euros -  41,154 (Libras -  36,347, Dolares - 43,728)",
+      "YEAR": "Euros -  2,140,000 (Libras -  1,890,026, Dolares - 2,273,833)"
+    },
+    {
+      "ID": "145",
+      "NAME": "Portu",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF,MF",
+      "CLUB": "Getafe",
+      "AGE": "30",
+      "WEEK": "Euros -  40,577 (Libras -  35,837, Dolares - 43,115)",
+      "YEAR": "Euros -  2,110,000 (Libras -  1,863,530, Dolares - 2,241,957)"
+    },
+    {
+      "ID": "146",
+      "NAME": "Jaume Doménech",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Valencia",
+      "AGE": "31",
+      "WEEK": "Euros -  40,577 (Libras -  35,837, Dolares - 43,115)",
+      "YEAR": "Euros -  2,110,000 (Libras -  1,863,530, Dolares - 2,241,957)"
+    },
+    {
+      "ID": "147",
+      "NAME": "Aritz Elustondo",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Real Sociedad",
+      "AGE": "28",
+      "WEEK": "Euros -  40,577 (Libras -  35,837, Dolares - 43,115)",
+      "YEAR": "Euros -  2,110,000 (Libras -  1,863,530, Dolares - 2,241,957)"
+    },
+    {
+      "ID": "148",
+      "NAME": "Marcos Llorente",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Atlético Madrid",
+      "AGE": "27",
+      "WEEK": "Euros -  40,385 (Libras -  35,667, Dolares - 42,910)",
+      "YEAR": "Euros -  2,100,000 (Libras -  1,854,698, Dolares - 2,231,331)"
+    },
+    {
+      "ID": "149",
+      "NAME": "Mario Hermoso",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Atlético Madrid",
+      "AGE": "27",
+      "WEEK": "Euros -  40,385 (Libras -  35,667, Dolares - 42,910)",
+      "YEAR": "Euros -  2,100,000 (Libras -  1,854,698, Dolares - 2,231,331)"
+    },
+    {
+      "ID": "150",
+      "NAME": "Nemanja Maksimović",
+      "COUNTRY": "rs SRB",
+      "POSITION": "MF",
+      "CLUB": "Getafe",
+      "AGE": "27",
+      "WEEK": "Euros -  40,000 (Libras -  35,328, Dolares - 42,502)",
+      "YEAR": "Euros -  2,080,000 (Libras -  1,837,034, Dolares - 2,210,080)"
+    },
+    {
+      "ID": "151",
+      "NAME": "Brais Méndez",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Real Sociedad",
+      "AGE": "25",
+      "WEEK": "Euros -  40,000 (Libras -  35,328, Dolares - 42,502)",
+      "YEAR": "Euros -  2,080,000 (Libras -  1,837,034, Dolares - 2,210,080)"
+    },
+    {
+      "ID": "152",
+      "NAME": "Takefusa Kubo",
+      "COUNTRY": "jp JPN",
+      "POSITION": "FW,MF",
+      "CLUB": "Real Sociedad",
+      "AGE": "21",
+      "WEEK": "Euros -  39,231 (Libras -  34,648, Dolares - 41,684)",
+      "YEAR": "Euros -  2,040,000 (Libras -  1,801,707, Dolares - 2,167,579)"
+    },
+    {
+      "ID": "153",
+      "NAME": "Iñaki Peña ",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Barcelona",
+      "AGE": "23",
+      "WEEK": "Euros -  38,462 (Libras -  33,969, Dolares - 40,867)",
+      "YEAR": "Euros -  2,000,000 (Libras -  1,766,379, Dolares - 2,125,077)"
+    },
+    {
+      "ID": "154",
+      "NAME": "Jon Morcillo",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Athletic Club",
+      "AGE": "23",
+      "WEEK": "Euros -  38,462 (Libras -  33,969, Dolares - 40,867)",
+      "YEAR": "Euros -  2,000,000 (Libras -  1,766,379, Dolares - 2,125,077)"
+    },
+    {
+      "ID": "155",
+      "NAME": "Maranhão",
+      "COUNTRY": "br BRA",
+      "POSITION": "FW,MF",
+      "CLUB": "Valencia",
+      "AGE": "25",
+      "WEEK": "Euros -  38,462 (Libras -  33,969, Dolares - 40,867)",
+      "YEAR": "Euros -  2,000,000 (Libras -  1,766,379, Dolares - 2,125,077)"
+    },
+    {
+      "ID": "156",
+      "NAME": "Robin Le Normand",
+      "COUNTRY": "fr FRA",
+      "POSITION": "DF",
+      "CLUB": "Real Sociedad",
+      "AGE": "25",
+      "WEEK": "Euros -  38,462 (Libras -  33,969, Dolares - 40,867)",
+      "YEAR": "Euros -  2,000,000 (Libras -  1,766,379, Dolares - 2,125,077)"
+    },
+    {
+      "ID": "157",
+      "NAME": "Martín Montoya",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Betis",
+      "AGE": "31",
+      "WEEK": "Euros -  38,269 (Libras -  33,799, Dolares - 40,663)",
+      "YEAR": "Euros -  1,990,000 (Libras -  1,757,547, Dolares - 2,114,452)"
+    },
+    {
+      "ID": "158",
+      "NAME": "Joseph Aidoo",
+      "COUNTRY": "gh GHA",
+      "POSITION": "DF",
+      "CLUB": "Celta Vigo",
+      "AGE": "26",
+      "WEEK": "Euros -  37,500 (Libras -  33,120, Dolares - 39,845)",
+      "YEAR": "Euros -  1,950,000 (Libras -  1,722,220, Dolares - 2,071,950)"
+    },
+    {
+      "ID": "159",
+      "NAME": "José Luis Morales",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Villarreal",
+      "AGE": "35",
+      "WEEK": "Euros -  36,923 (Libras -  32,610, Dolares - 39,232)",
+      "YEAR": "Euros -  1,920,000 (Libras -  1,695,724, Dolares - 2,040,074)"
+    },
+    {
+      "ID": "160",
+      "NAME": "Hugo Guillamón",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Valencia",
+      "AGE": "22",
+      "WEEK": "Euros -  36,923 (Libras -  32,610, Dolares - 39,232)",
+      "YEAR": "Euros -  1,920,000 (Libras -  1,695,724, Dolares - 2,040,074)"
+    },
+    {
+      "ID": "161",
+      "NAME": "Andrés Guardado",
+      "COUNTRY": "mx MEX",
+      "POSITION": "MF,FW",
+      "CLUB": "Betis",
+      "AGE": "35",
+      "WEEK": "Euros -  36,731 (Libras -  32,440, Dolares - 39,028)",
+      "YEAR": "Euros -  1,910,000 (Libras -  1,686,892, Dolares - 2,029,449)"
+    },
+    {
+      "ID": "162",
+      "NAME": "Samuel Chukwueze",
+      "COUNTRY": "ng NGA",
+      "POSITION": "FW,MF",
+      "CLUB": "Villarreal",
+      "AGE": "23",
+      "WEEK": "Euros -  36,154 (Libras -  31,931, Dolares - 38,415)",
+      "YEAR": "Euros -  1,880,000 (Libras -  1,660,396, Dolares - 1,997,573)"
+    },
+    {
+      "ID": "163",
+      "NAME": "Dimitri Foulquier",
+      "COUNTRY": "fr FRA",
+      "POSITION": "DF,MF",
+      "CLUB": "Valencia",
+      "AGE": "29",
+      "WEEK": "Euros -  35,962 (Libras -  31,761, Dolares - 38,211)",
+      "YEAR": "Euros -  1,870,000 (Libras -  1,651,564, Dolares - 1,986,947)"
+    },
+    {
+      "ID": "164",
+      "NAME": "Óscar de Marcos",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Athletic Club",
+      "AGE": "33",
+      "WEEK": "Euros -  35,577 (Libras -  31,421, Dolares - 37,802)",
+      "YEAR": "Euros -  1,850,000 (Libras -  1,633,901, Dolares - 1,965,697)"
+    },
+    {
+      "ID": "165",
+      "NAME": "Thierry Correia",
+      "COUNTRY": "pt POR",
+      "POSITION": "DF",
+      "CLUB": "Valencia",
+      "AGE": "23",
+      "WEEK": "Euros -  35,385 (Libras -  31,251, Dolares - 37,598)",
+      "YEAR": "Euros -  1,840,000 (Libras -  1,625,069, Dolares - 1,955,071)"
+    },
+    {
+      "ID": "166",
+      "NAME": "Jesús Vallejo",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Real Madrid",
+      "AGE": "25",
+      "WEEK": "Euros -  34,615 (Libras -  30,572, Dolares - 36,780)",
+      "YEAR": "Euros -  1,800,000 (Libras -  1,589,741, Dolares - 1,912,570)"
+    },
+    {
+      "ID": "167",
+      "NAME": "Ezequiel Ponce",
+      "COUNTRY": "ar ARG",
+      "POSITION": "FW,MF",
+      "CLUB": "Elche",
+      "AGE": "25",
+      "WEEK": "Euros -  34,615 (Libras -  30,572, Dolares - 36,780)",
+      "YEAR": "Euros -  1,800,000 (Libras -  1,589,741, Dolares - 1,912,570)"
+    },
+    {
+      "ID": "168",
+      "NAME": "Gastón Álvarez",
+      "COUNTRY": "uy URU",
+      "POSITION": "DF",
+      "CLUB": "Getafe",
+      "AGE": "22",
+      "WEEK": "Euros -  34,615 (Libras -  30,572, Dolares - 36,780)",
+      "YEAR": "Euros -  1,800,000 (Libras -  1,589,741, Dolares - 1,912,570)"
+    },
+    {
+      "ID": "169",
+      "NAME": "Asier Villalibre",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Athletic Club",
+      "AGE": "24",
+      "WEEK": "Euros -  34,038 (Libras -  30,062, Dolares - 36,167)",
+      "YEAR": "Euros -  1,770,000 (Libras -  1,563,245, Dolares - 1,880,693)"
+    },
+    {
+      "ID": "170",
+      "NAME": "Toni Lato",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF,MF",
+      "CLUB": "Valencia",
+      "AGE": "24",
+      "WEEK": "Euros -  33,846 (Libras -  29,893, Dolares - 35,963)",
+      "YEAR": "Euros -  1,760,000 (Libras -  1,554,414, Dolares - 1,870,068)"
+    },
+    {
+      "ID": "171",
+      "NAME": "William Carvalho",
+      "COUNTRY": "pt POR",
+      "POSITION": "MF",
+      "CLUB": "Betis",
+      "AGE": "30",
+      "WEEK": "Euros -  33,654 (Libras -  29,723, Dolares - 35,759)",
+      "YEAR": "Euros -  1,750,000 (Libras -  1,545,582, Dolares - 1,859,443)"
+    },
+    {
+      "ID": "172",
+      "NAME": "Federico Fernández",
+      "COUNTRY": "ar ARG",
+      "POSITION": "DF",
+      "CLUB": "Elche",
+      "AGE": "33",
+      "WEEK": "Euros -  32,308 (Libras -  28,534, Dolares - 34,328)",
+      "YEAR": "Euros -  1,680,000 (Libras -  1,483,758, Dolares - 1,785,065)"
+    },
+    {
+      "ID": "173",
+      "NAME": "Mikel Balenziaga",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Athletic Club",
+      "AGE": "34",
+      "WEEK": "Euros -  31,731 (Libras -  28,024, Dolares - 33,715)",
+      "YEAR": "Euros -  1,650,000 (Libras -  1,457,263, Dolares - 1,753,189)"
+    },
+    {
+      "ID": "174",
+      "NAME": "Kenedy",
+      "COUNTRY": "br BRA",
+      "POSITION": "FW,MF",
+      "CLUB": "Valladolid",
+      "AGE": "26",
+      "WEEK": "Euros -  31,154 (Libras -  27,515, Dolares - 33,102)",
+      "YEAR": "Euros -  1,620,000 (Libras -  1,430,767, Dolares - 1,721,313)"
+    },
+    {
+      "ID": "175",
+      "NAME": "Ilaix Moriba",
+      "COUNTRY": "gn GUI",
+      "POSITION": "MF",
+      "CLUB": "Valencia",
+      "AGE": "19",
+      "WEEK": "Euros -  31,154 (Libras -  27,515, Dolares - 33,102)",
+      "YEAR": "Euros -  1,620,000 (Libras -  1,430,767, Dolares - 1,721,313)"
+    },
+    {
+      "ID": "176",
+      "NAME": "Claudio Bravo",
+      "COUNTRY": "cl CHI",
+      "POSITION": "GK",
+      "CLUB": "Betis",
+      "AGE": "39",
+      "WEEK": "Euros -  30,769 (Libras -  27,175, Dolares - 32,694)",
+      "YEAR": "Euros -  1,600,000 (Libras -  1,413,103, Dolares - 1,700,062)"
+    },
+    {
+      "ID": "177",
+      "NAME": "Iñigo Lekue",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Athletic Club",
+      "AGE": "29",
+      "WEEK": "Euros -  29,808 (Libras -  26,326, Dolares - 31,672)",
+      "YEAR": "Euros -  1,550,000 (Libras -  1,368,944, Dolares - 1,646,935)"
+    },
+    {
+      "ID": "178",
+      "NAME": "Jorge Cuenca",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Villarreal",
+      "AGE": "22",
+      "WEEK": "Euros -  29,423 (Libras -  25,986, Dolares - 31,263)",
+      "YEAR": "Euros -  1,530,000 (Libras -  1,351,280, Dolares - 1,625,684)"
+    },
+    {
+      "ID": "179",
+      "NAME": "Mauro Arambarri",
+      "COUNTRY": "uy URU",
+      "POSITION": "MF",
+      "CLUB": "Getafe",
+      "AGE": "26",
+      "WEEK": "Euros -  29,423 (Libras -  25,986, Dolares - 31,263)",
+      "YEAR": "Euros -  1,530,000 (Libras -  1,351,280, Dolares - 1,625,684)"
+    },
+    {
+      "ID": "180",
+      "NAME": "David Soria",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Getafe",
+      "AGE": "29",
+      "WEEK": "Euros -  29,038 (Libras -  25,646, Dolares - 30,854)",
+      "YEAR": "Euros -  1,510,000 (Libras -  1,333,616, Dolares - 1,604,433)"
+    },
+    {
+      "ID": "181",
+      "NAME": "Aitor Fernández",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Osasuna",
+      "AGE": "31",
+      "WEEK": "Euros -  28,846 (Libras -  25,477, Dolares - 30,650)",
+      "YEAR": "Euros -  1,500,000 (Libras -  1,324,784, Dolares - 1,593,808)"
+    },
+    {
+      "ID": "182",
+      "NAME": "Ezequiel Ávila",
+      "COUNTRY": "ar ARG",
+      "POSITION": "FW,MF",
+      "CLUB": "Osasuna",
+      "AGE": "28",
+      "WEEK": "Euros -  28,846 (Libras -  25,477, Dolares - 30,650)",
+      "YEAR": "Euros -  1,500,000 (Libras -  1,324,784, Dolares - 1,593,808)"
+    },
+    {
+      "ID": "183",
+      "NAME": "Anuar",
+      "COUNTRY": "ma MAR",
+      "POSITION": "MF,FW",
+      "CLUB": "Valladolid",
+      "AGE": "27",
+      "WEEK": "Euros -  28,846 (Libras -  25,477, Dolares - 30,650)",
+      "YEAR": "Euros -  1,500,000 (Libras -  1,324,784, Dolares - 1,593,808)"
+    },
+    {
+      "ID": "184",
+      "NAME": "Oier Zarraga",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Athletic Club",
+      "AGE": "23",
+      "WEEK": "Euros -  28,846 (Libras -  25,477, Dolares - 30,650)",
+      "YEAR": "Euros -  1,500,000 (Libras -  1,324,784, Dolares - 1,593,808)"
+    },
+    {
+      "ID": "185",
+      "NAME": "Javier Pastore",
+      "COUNTRY": "ar ARG",
+      "POSITION": "MF",
+      "CLUB": "Elche",
+      "AGE": "33",
+      "WEEK": "Euros -  28,846 (Libras -  25,477, Dolares - 30,650)",
+      "YEAR": "Euros -  1,500,000 (Libras -  1,324,784, Dolares - 1,593,808)"
+    },
+    {
+      "ID": "186",
+      "NAME": "Giorgi Mamardashvili",
+      "COUNTRY": "ge GEO",
+      "POSITION": "GK",
+      "CLUB": "Valencia",
+      "AGE": "21",
+      "WEEK": "Euros -  28,846 (Libras -  25,477, Dolares - 30,650)",
+      "YEAR": "Euros -  1,500,000 (Libras -  1,324,784, Dolares - 1,593,808)"
+    },
+    {
+      "ID": "187",
+      "NAME": "Yunus Musah",
+      "COUNTRY": "us USA",
+      "POSITION": "MF",
+      "CLUB": "Valencia",
+      "AGE": "19",
+      "WEEK": "Euros -  28,846 (Libras -  25,477, Dolares - 30,650)",
+      "YEAR": "Euros -  1,500,000 (Libras -  1,324,784, Dolares - 1,593,808)"
+    },
+    {
+      "ID": "188",
+      "NAME": "Umar Sadiq",
+      "COUNTRY": "ng NGA",
+      "POSITION": "FW",
+      "CLUB": "Real Sociedad",
+      "AGE": "25",
+      "WEEK": "Euros -  28,846 (Libras -  25,477, Dolares - 30,650)",
+      "YEAR": "Euros -  1,500,000 (Libras -  1,324,784, Dolares - 1,593,808)"
+    },
+    {
+      "ID": "189",
+      "NAME": "Javi Galán",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Celta Vigo",
+      "AGE": "27",
+      "WEEK": "Euros -  28,846 (Libras -  25,477, Dolares - 30,650)",
+      "YEAR": "Euros -  1,500,000 (Libras -  1,324,784, Dolares - 1,593,808)"
+    },
+    {
+      "ID": "190",
+      "NAME": "Leandro Cabrera",
+      "COUNTRY": "uy URU",
+      "POSITION": "DF",
+      "CLUB": "Espanyol",
+      "AGE": "31",
+      "WEEK": "Euros -  28,462 (Libras -  25,137, Dolares - 30,241)",
+      "YEAR": "Euros -  1,480,000 (Libras -  1,307,121, Dolares - 1,572,557)"
+    },
+    {
+      "ID": "191",
+      "NAME": "Cristian",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Valencia",
+      "AGE": "24",
+      "WEEK": "Euros -  27,885 (Libras -  24,627, Dolares - 29,628)",
+      "YEAR": "Euros -  1,450,000 (Libras -  1,280,625, Dolares - 1,540,681)"
+    },
+    {
+      "ID": "192",
+      "NAME": "Joaquín",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Betis",
+      "AGE": "41",
+      "WEEK": "Euros -  27,692 (Libras -  24,458, Dolares - 29,424)",
+      "YEAR": "Euros -  1,440,000 (Libras -  1,271,793, Dolares - 1,530,056)"
+    },
+    {
+      "ID": "193",
+      "NAME": "Florian Lejeune",
+      "COUNTRY": "fr FRA",
+      "POSITION": "DF",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "31",
+      "WEEK": "Euros -  27,500 (Libras -  24,288, Dolares - 29,220)",
+      "YEAR": "Euros -  1,430,000 (Libras -  1,262,961, Dolares - 1,519,430)"
+    },
+    {
+      "ID": "194",
+      "NAME": "Gonzalo Montiel",
+      "COUNTRY": "ar ARG",
+      "POSITION": "DF",
+      "CLUB": "Sevilla",
+      "AGE": "25",
+      "WEEK": "Euros -  27,115 (Libras -  23,948, Dolares - 28,811)",
+      "YEAR": "Euros -  1,410,000 (Libras -  1,245,297, Dolares - 1,498,180)"
+    },
+    {
+      "ID": "195",
+      "NAME": "Oihan Sancet",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Athletic Club",
+      "AGE": "22",
+      "WEEK": "Euros -  26,923 (Libras -  23,778, Dolares - 28,607)",
+      "YEAR": "Euros -  1,400,000 (Libras -  1,236,465, Dolares - 1,487,554)"
+    },
+    {
+      "ID": "196",
+      "NAME": "Sergio Canales",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Betis",
+      "AGE": "31",
+      "WEEK": "Euros -  26,346 (Libras -  23,269, Dolares - 27,994)",
+      "YEAR": "Euros -  1,370,000 (Libras -  1,209,970, Dolares - 1,455,678)"
+    },
+    {
+      "ID": "197",
+      "NAME": "Rubén García",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Osasuna",
+      "AGE": "29",
+      "WEEK": "Euros -  25,962 (Libras -  22,929, Dolares - 27,585)",
+      "YEAR": "Euros -  1,350,000 (Libras -  1,192,306, Dolares - 1,434,427)"
+    },
+    {
+      "ID": "198",
+      "NAME": "Augusto Solari",
+      "COUNTRY": "ar ARG",
+      "POSITION": "MF,FW",
+      "CLUB": "Celta Vigo",
+      "AGE": "30",
+      "WEEK": "Euros -  25,962 (Libras -  22,929, Dolares - 27,585)",
+      "YEAR": "Euros -  1,350,000 (Libras -  1,192,306, Dolares - 1,434,427)"
+    },
+    {
+      "ID": "199",
+      "NAME": "Rodrigo Battaglia",
+      "COUNTRY": "ar ARG",
+      "POSITION": "MF",
+      "CLUB": "Mallorca",
+      "AGE": "31",
+      "WEEK": "Euros -  25,385 (Libras -  22,419, Dolares - 26,972)",
+      "YEAR": "Euros -  1,320,000 (Libras -  1,165,810, Dolares - 1,402,551)"
+    },
+    {
+      "ID": "200",
+      "NAME": "Manu Morlanes",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Villarreal",
+      "AGE": "23",
+      "WEEK": "Euros -  25,192 (Libras -  22,250, Dolares - 26,768)",
+      "YEAR": "Euros -  1,310,000 (Libras -  1,156,978, Dolares - 1,391,926)"
+    },
+    {
+      "ID": "201",
+      "NAME": "Karim Rekik",
+      "COUNTRY": "nl NED",
+      "POSITION": "DF",
+      "CLUB": "Sevilla",
+      "AGE": "27",
+      "WEEK": "Euros -  25,192 (Libras -  22,250, Dolares - 26,768)",
+      "YEAR": "Euros -  1,310,000 (Libras -  1,156,978, Dolares - 1,391,926)"
+    },
+    {
+      "ID": "202",
+      "NAME": "Álvaro Negredo",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Cádiz",
+      "AGE": "36",
+      "WEEK": "Euros -  24,808 (Libras -  21,910, Dolares - 26,359)",
+      "YEAR": "Euros -  1,290,000 (Libras -  1,139,314, Dolares - 1,370,675)"
+    },
+    {
+      "ID": "203",
+      "NAME": "Borja Iglesias",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Betis",
+      "AGE": "29",
+      "WEEK": "Euros -  24,808 (Libras -  21,910, Dolares - 26,359)",
+      "YEAR": "Euros -  1,290,000 (Libras -  1,139,314, Dolares - 1,370,675)"
+    },
+    {
+      "ID": "204",
+      "NAME": "Jeremías Ledesma",
+      "COUNTRY": "ar ARG",
+      "POSITION": "GK",
+      "CLUB": "Cádiz",
+      "AGE": "29",
+      "WEEK": "Euros -  24,615 (Libras -  21,740, Dolares - 26,155)",
+      "YEAR": "Euros -  1,280,000 (Libras -  1,130,483, Dolares - 1,360,050)"
+    },
+    {
+      "ID": "205",
+      "NAME": "Manuel Sánchez",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Osasuna",
+      "AGE": "21",
+      "WEEK": "Euros -  24,231 (Libras -  21,400, Dolares - 25,746)",
+      "YEAR": "Euros -  1,260,000 (Libras -  1,112,819, Dolares - 1,338,799)"
+    },
+    {
+      "ID": "206",
+      "NAME": "Rafa Mir",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Sevilla",
+      "AGE": "25",
+      "WEEK": "Euros -  24,231 (Libras -  21,400, Dolares - 25,746)",
+      "YEAR": "Euros -  1,260,000 (Libras -  1,112,819, Dolares - 1,338,799)"
+    },
+    {
+      "ID": "207",
+      "NAME": "Agustín Marchesín",
+      "COUNTRY": "ar ARG",
+      "POSITION": "GK",
+      "CLUB": "Celta Vigo",
+      "AGE": "34",
+      "WEEK": "Euros -  24,231 (Libras -  21,400, Dolares - 25,746)",
+      "YEAR": "Euros -  1,260,000 (Libras -  1,112,819, Dolares - 1,338,799)"
+    },
+    {
+      "ID": "208",
+      "NAME": "Samuel Lino",
+      "POSITION": "LW",
+      "CLUB": "Valencia",
+      "AGE": "22",
+      "WEEK": "Euros -  24,038 (Libras -  21,231, Dolares - 25,542)",
+      "YEAR": "Euros -  1,250,000 (Libras -  1,103,987, Dolares - 1,328,173)"
+    },
+    {
+      "ID": "209",
+      "NAME": "Omar Alderete",
+      "COUNTRY": "py PAR",
+      "POSITION": "DF",
+      "CLUB": "Getafe",
+      "AGE": "25",
+      "WEEK": "Euros -  23,077 (Libras -  20,381, Dolares - 24,520)",
+      "YEAR": "Euros -  1,200,000 (Libras -  1,059,827, Dolares - 1,275,046)"
+    },
+    {
+      "ID": "210",
+      "NAME": "Fernando Pacheco",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Almería",
+      "AGE": "30",
+      "WEEK": "Euros -  23,077 (Libras -  20,381, Dolares - 24,520)",
+      "YEAR": "Euros -  1,200,000 (Libras -  1,059,827, Dolares - 1,275,046)"
+    },
+    {
+      "ID": "211",
+      "NAME": "Radamel Falcao",
+      "COUNTRY": "co COL",
+      "POSITION": "FW,MF",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "36",
+      "WEEK": "Euros -  23,077 (Libras -  20,381, Dolares - 24,520)",
+      "YEAR": "Euros -  1,200,000 (Libras -  1,059,827, Dolares - 1,275,046)"
+    },
+    {
+      "ID": "212",
+      "NAME": "Joselu",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Espanyol",
+      "AGE": "32",
+      "WEEK": "Euros -  23,077 (Libras -  20,381, Dolares - 24,520)",
+      "YEAR": "Euros -  1,200,000 (Libras -  1,059,827, Dolares - 1,275,046)"
+    },
+    {
+      "ID": "213",
+      "NAME": "Nahuel Molina",
+      "COUNTRY": "ar ARG",
+      "POSITION": "DF,MF",
+      "CLUB": "Atlético Madrid",
+      "AGE": "24",
+      "WEEK": "Euros -  23,077 (Libras -  20,381, Dolares - 24,520)",
+      "YEAR": "Euros -  1,200,000 (Libras -  1,059,827, Dolares - 1,275,046)"
+    },
+    {
+      "ID": "214",
+      "NAME": "Theo Bongonda",
+      "COUNTRY": "cd COD",
+      "POSITION": "MF,FW",
+      "CLUB": "Cádiz",
+      "AGE": "26",
+      "WEEK": "Euros -  23,077 (Libras -  20,381, Dolares - 24,520)",
+      "YEAR": "Euros -  1,200,000 (Libras -  1,059,827, Dolares - 1,275,046)"
+    },
+    {
+      "ID": "215",
+      "NAME": "Daniel Vivian",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Athletic Club",
+      "AGE": "23",
+      "WEEK": "Euros -  22,692 (Libras -  20,042, Dolares - 24,111)",
+      "YEAR": "Euros -  1,180,000 (Libras -  1,042,164, Dolares - 1,253,796)"
+    },
+    {
+      "ID": "216",
+      "NAME": "Moi Gómez",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Osasuna",
+      "AGE": "28",
+      "WEEK": "Euros -  22,115 (Libras -  19,532, Dolares - 23,498)",
+      "YEAR": "Euros -  1,150,000 (Libras -  1,015,668, Dolares - 1,221,920)"
+    },
+    {
+      "ID": "217",
+      "NAME": "Johan Mojica",
+      "COUNTRY": "co COL",
+      "POSITION": "DF",
+      "CLUB": "Villarreal",
+      "AGE": "29",
+      "WEEK": "Euros -  22,115 (Libras -  19,532, Dolares - 23,498)",
+      "YEAR": "Euros -  1,150,000 (Libras -  1,015,668, Dolares - 1,221,920)"
+    },
+    {
+      "ID": "218",
+      "NAME": "Kiko Femenía",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Villarreal",
+      "AGE": "31",
+      "WEEK": "Euros -  22,115 (Libras -  19,532, Dolares - 23,498)",
+      "YEAR": "Euros -  1,150,000 (Libras -  1,015,668, Dolares - 1,221,920)"
+    },
+    {
+      "ID": "219",
+      "NAME": "Óscar Rodríguez Arnaiz",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Celta Vigo",
+      "AGE": "24",
+      "WEEK": "Euros -  22,115 (Libras -  19,532, Dolares - 23,498)",
+      "YEAR": "Euros -  1,150,000 (Libras -  1,015,668, Dolares - 1,221,920)"
+    },
+    {
+      "ID": "220",
+      "NAME": "Manu Vallejo",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Girona",
+      "AGE": "25",
+      "WEEK": "Euros -  21,923 (Libras -  19,362, Dolares - 23,294)",
+      "YEAR": "Euros -  1,140,000 (Libras -  1,006,836, Dolares - 1,211,294)"
+    },
+    {
+      "ID": "221",
+      "NAME": "Óscar Mingueza",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Celta Vigo",
+      "AGE": "23",
+      "WEEK": "Euros -  21,923 (Libras -  19,362, Dolares - 23,294)",
+      "YEAR": "Euros -  1,140,000 (Libras -  1,006,836, Dolares - 1,211,294)"
+    },
+    {
+      "ID": "222",
+      "NAME": "Eray Cömert",
+      "COUNTRY": "ch SUI",
+      "POSITION": "DF",
+      "CLUB": "Valencia",
+      "AGE": "24",
+      "WEEK": "Euros -  21,154 (Libras -  18,683, Dolares - 22,477)",
+      "YEAR": "Euros -  1,100,000 (Libras -  971,508, Dolares - 1,168,793)"
+    },
+    {
+      "ID": "223",
+      "NAME": "Cala",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Cádiz",
+      "AGE": "32",
+      "WEEK": "Euros -  21,154 (Libras -  18,683, Dolares - 22,477)",
+      "YEAR": "Euros -  1,100,000 (Libras -  971,508, Dolares - 1,168,793)"
+    },
+    {
+      "ID": "224",
+      "NAME": "Iván Sánchez",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Valladolid",
+      "AGE": "29",
+      "WEEK": "Euros -  20,769 (Libras -  18,343, Dolares - 22,068)",
+      "YEAR": "Euros -  1,080,000 (Libras -  953,845, Dolares - 1,147,542)"
+    },
+    {
+      "ID": "225",
+      "NAME": "Tino Kadewere",
+      "COUNTRY": "zw ZIM",
+      "POSITION": "FW,MF",
+      "CLUB": "Mallorca",
+      "AGE": "26",
+      "WEEK": "Euros -  20,769 (Libras -  18,343, Dolares - 22,068)",
+      "YEAR": "Euros -  1,080,000 (Libras -  953,845, Dolares - 1,147,542)"
+    },
+    {
+      "ID": "226",
+      "NAME": "Carlos Clerc",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF,MF",
+      "CLUB": "Elche",
+      "AGE": "30",
+      "WEEK": "Euros -  20,769 (Libras -  18,343, Dolares - 22,068)",
+      "YEAR": "Euros -  1,080,000 (Libras -  953,845, Dolares - 1,147,542)"
+    },
+    {
+      "ID": "227",
+      "NAME": "Domingos Duarte",
+      "COUNTRY": "pt POR",
+      "POSITION": "DF",
+      "CLUB": "Getafe",
+      "AGE": "27",
+      "WEEK": "Euros -  20,769 (Libras -  18,343, Dolares - 22,068)",
+      "YEAR": "Euros -  1,080,000 (Libras -  953,845, Dolares - 1,147,542)"
+    },
+    {
+      "ID": "228",
+      "NAME": "Yangel Herrera",
+      "COUNTRY": "ve VEN",
+      "POSITION": "MF,FW",
+      "CLUB": "Girona",
+      "AGE": "24",
+      "WEEK": "Euros -  20,769 (Libras -  18,343, Dolares - 22,068)",
+      "YEAR": "Euros -  1,080,000 (Libras -  953,845, Dolares - 1,147,542)"
+    },
+    {
+      "ID": "229",
+      "NAME": "Lucas Pérez",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Cádiz",
+      "AGE": "33",
+      "WEEK": "Euros -  20,769 (Libras -  18,343, Dolares - 22,068)",
+      "YEAR": "Euros -  1,080,000 (Libras -  953,845, Dolares - 1,147,542)"
+    },
+    {
+      "ID": "230",
+      "NAME": "Sergio Asenjo",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Valladolid",
+      "AGE": "33",
+      "WEEK": "Euros -  20,000 (Libras -  17,664, Dolares - 21,251)",
+      "YEAR": "Euros -  1,040,000 (Libras -  918,517, Dolares - 1,105,040)"
+    },
+    {
+      "ID": "231",
+      "NAME": "Dyego Sousa",
+      "COUNTRY": "pt POR",
+      "POSITION": "FW",
+      "CLUB": "Almería",
+      "AGE": "32",
+      "WEEK": "Euros -  20,000 (Libras -  17,664, Dolares - 21,251)",
+      "YEAR": "Euros -  1,040,000 (Libras -  918,517, Dolares - 1,105,040)"
+    },
+    {
+      "ID": "232",
+      "NAME": "Iván Martín",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Girona",
+      "AGE": "23",
+      "WEEK": "Euros -  20,000 (Libras -  17,664, Dolares - 21,251)",
+      "YEAR": "Euros -  1,040,000 (Libras -  918,517, Dolares - 1,105,040)"
+    },
+    {
+      "ID": "233",
+      "NAME": "Carlos Fernández",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Real Sociedad",
+      "AGE": "26",
+      "WEEK": "Euros -  20,000 (Libras -  17,664, Dolares - 21,251)",
+      "YEAR": "Euros -  1,040,000 (Libras -  918,517, Dolares - 1,105,040)"
+    },
+    {
+      "ID": "234",
+      "NAME": "Roger Martí",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Elche",
+      "AGE": "31",
+      "WEEK": "Euros -  19,615 (Libras -  17,324, Dolares - 20,842)",
+      "YEAR": "Euros -  1,020,000 (Libras -  900,853, Dolares - 1,083,789)"
+    },
+    {
+      "ID": "235",
+      "NAME": "Jordan Amavi",
+      "COUNTRY": "fr FRA",
+      "POSITION": "DF",
+      "CLUB": "Getafe",
+      "AGE": "28",
+      "WEEK": "Euros -  19,615 (Libras -  17,324, Dolares - 20,842)",
+      "YEAR": "Euros -  1,020,000 (Libras -  900,853, Dolares - 1,083,789)"
+    },
+    {
+      "ID": "236",
+      "NAME": "Luis Hernández",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Cádiz",
+      "AGE": "33",
+      "WEEK": "Euros -  19,615 (Libras -  17,324, Dolares - 20,842)",
+      "YEAR": "Euros -  1,020,000 (Libras -  900,853, Dolares - 1,083,789)"
+    },
+    {
+      "ID": "237",
+      "NAME": "Nacho Vidal",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Osasuna",
+      "AGE": "27",
+      "WEEK": "Euros -  19,423 (Libras -  17,154, Dolares - 20,638)",
+      "YEAR": "Euros -  1,010,000 (Libras -  892,021, Dolares - 1,073,164)"
+    },
+    {
+      "ID": "238",
+      "NAME": "Lucas Olaza",
+      "COUNTRY": "uy URU",
+      "POSITION": "DF",
+      "CLUB": "Valladolid",
+      "AGE": "28",
+      "WEEK": "Euros -  19,231 (Libras -  16,984, Dolares - 20,433)",
+      "YEAR": "Euros -  1,000,000 (Libras -  883,190, Dolares - 1,062,539)"
+    },
+    {
+      "ID": "239",
+      "NAME": "Sergio León",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Valladolid",
+      "AGE": "33",
+      "WEEK": "Euros -  19,231 (Libras -  16,984, Dolares - 20,433)",
+      "YEAR": "Euros -  1,000,000 (Libras -  883,190, Dolares - 1,062,539)"
+    },
+    {
+      "ID": "240",
+      "NAME": "Pol Lirola",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Elche",
+      "AGE": "24",
+      "WEEK": "Euros -  19,231 (Libras -  16,984, Dolares - 20,433)",
+      "YEAR": "Euros -  1,000,000 (Libras -  883,190, Dolares - 1,062,539)"
+    },
+    {
+      "ID": "241",
+      "NAME": "Fernando Calero",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF,MF",
+      "CLUB": "Espanyol",
+      "AGE": "26",
+      "WEEK": "Euros -  19,038 (Libras -  16,815, Dolares - 20,229)",
+      "YEAR": "Euros -  990,000 (Libras -  874,358, Dolares - 1,051,913)"
+    },
+    {
+      "ID": "242",
+      "NAME": "Aihen Muñoz",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Real Sociedad",
+      "AGE": "24",
+      "WEEK": "Euros -  19,038 (Libras -  16,815, Dolares - 20,229)",
+      "YEAR": "Euros -  990,000 (Libras -  874,358, Dolares - 1,051,913)"
+    },
+    {
+      "ID": "243",
+      "NAME": "Iván Villar",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Celta Vigo",
+      "AGE": "25",
+      "WEEK": "Euros -  19,038 (Libras -  16,815, Dolares - 20,229)",
+      "YEAR": "Euros -  990,000 (Libras -  874,358, Dolares - 1,051,913)"
+    },
+    {
+      "ID": "244",
+      "NAME": "Pablo Maffeo",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Mallorca",
+      "AGE": "25",
+      "WEEK": "Euros -  18,846 (Libras -  16,645, Dolares - 20,025)",
+      "YEAR": "Euros -  980,000 (Libras -  865,526, Dolares - 1,041,288)"
+    },
+    {
+      "ID": "245",
+      "NAME": "Juan Brandáriz",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Almería",
+      "AGE": "23",
+      "WEEK": "Euros -  18,654 (Libras -  16,475, Dolares - 19,820)",
+      "YEAR": "Euros -  970,000 (Libras -  856,694, Dolares - 1,030,663)"
+    },
+    {
+      "ID": "246",
+      "NAME": "Adri Embarba",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Almería",
+      "AGE": "30",
+      "WEEK": "Euros -  18,462 (Libras -  16,305, Dolares - 19,616)",
+      "YEAR": "Euros -  960,000 (Libras -  847,862, Dolares - 1,020,037)"
+    },
+    {
+      "ID": "247",
+      "NAME": "Pedrosa",
+      "COUNTRY": "es ESP",
+      "POSITION": "LB",
+      "CLUB": "Espanyol",
+      "AGE": "24",
+      "WEEK": "Euros -  18,462 (Libras -  16,305, Dolares - 19,616)",
+      "YEAR": "Euros -  960,000 (Libras -  847,862, Dolares - 1,020,037)"
+    },
+    {
+      "ID": "248",
+      "NAME": "Kevin Vázquez",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF,MF",
+      "CLUB": "Celta Vigo",
+      "AGE": "29",
+      "WEEK": "Euros -  18,462 (Libras -  16,305, Dolares - 19,616)",
+      "YEAR": "Euros -  960,000 (Libras -  847,862, Dolares - 1,020,037)"
+    },
+    {
+      "ID": "249",
+      "NAME": "Sergio Herrera",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Osasuna",
+      "AGE": "29",
+      "WEEK": "Euros -  18,269 (Libras -  16,135, Dolares - 19,412)",
+      "YEAR": "Euros -  950,000 (Libras -  839,030, Dolares - 1,009,412)"
+    },
+    {
+      "ID": "250",
+      "NAME": "Lucas Robertone",
+      "COUNTRY": "ar ARG",
+      "POSITION": "MF",
+      "CLUB": "Almería",
+      "AGE": "25",
+      "WEEK": "Euros -  18,269 (Libras -  16,135, Dolares - 19,412)",
+      "YEAR": "Euros -  950,000 (Libras -  839,030, Dolares - 1,009,412)"
+    },
+    {
+      "ID": "251",
+      "NAME": "Marko Dmitrović",
+      "COUNTRY": "rs SRB",
+      "POSITION": "GK",
+      "CLUB": "Sevilla",
+      "AGE": "30",
+      "WEEK": "Euros -  18,269 (Libras -  16,135, Dolares - 19,412)",
+      "YEAR": "Euros -  950,000 (Libras -  839,030, Dolares - 1,009,412)"
+    },
+    {
+      "ID": "252",
+      "NAME": "Víctor Ruiz",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Betis",
+      "AGE": "33",
+      "WEEK": "Euros -  17,885 (Libras -  15,796, Dolares - 19,003)",
+      "YEAR": "Euros -  930,000 (Libras -  821,366, Dolares - 988,161)"
+    },
+    {
+      "ID": "253",
+      "NAME": "Valentín Castellanos",
+      "COUNTRY": "ar ARG",
+      "POSITION": "FW",
+      "CLUB": "Girona",
+      "AGE": "23",
+      "WEEK": "Euros -  17,500 (Libras -  15,456, Dolares - 18,594)",
+      "YEAR": "Euros -  910,000 (Libras -  803,702, Dolares - 966,910)"
+    },
+    {
+      "ID": "254",
+      "NAME": "Juanmi",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Betis",
+      "AGE": "29",
+      "WEEK": "Euros -  17,500 (Libras -  15,456, Dolares - 18,594)",
+      "YEAR": "Euros -  910,000 (Libras -  803,702, Dolares - 966,910)"
+    },
+    {
+      "ID": "255",
+      "NAME": "Diego López",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "40",
+      "WEEK": "Euros -  17,308 (Libras -  15,286, Dolares - 18,390)",
+      "YEAR": "Euros -  900,000 (Libras -  794,871, Dolares - 956,285)"
+    },
+    {
+      "ID": "256",
+      "NAME": "Joseba Zaldúa",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Cádiz",
+      "AGE": "30",
+      "WEEK": "Euros -  17,308 (Libras -  15,286, Dolares - 18,390)",
+      "YEAR": "Euros -  900,000 (Libras -  794,871, Dolares - 956,285)"
+    },
+    {
+      "ID": "257",
+      "NAME": "Fran Beltrán",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Celta Vigo",
+      "AGE": "23",
+      "WEEK": "Euros -  17,308 (Libras -  15,286, Dolares - 18,390)",
+      "YEAR": "Euros -  900,000 (Libras -  794,871, Dolares - 956,285)"
+    },
+    {
+      "ID": "258",
+      "NAME": "Víctor Camarasa",
+      "COUNTRY": "es ESP",
+      "POSITION": "CM",
+      "CLUB": "Betis",
+      "AGE": "28",
+      "WEEK": "Euros -  17,115 (Libras -  15,116, Dolares - 18,186)",
+      "YEAR": "Euros -  890,000 (Libras -  786,039, Dolares - 945,659)"
+    },
+    {
+      "ID": "259",
+      "NAME": "Ander Guevara",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Real Sociedad",
+      "AGE": "25",
+      "WEEK": "Euros -  16,731 (Libras -  14,776, Dolares - 17,777)",
+      "YEAR": "Euros -  870,000 (Libras -  768,375, Dolares - 924,409)"
+    },
+    {
+      "ID": "260",
+      "NAME": "Enes Ünal",
+      "COUNTRY": "tr TUR",
+      "POSITION": "FW",
+      "CLUB": "Getafe",
+      "AGE": "25",
+      "WEEK": "Euros -  16,538 (Libras -  14,607, Dolares - 17,573)",
+      "YEAR": "Euros -  860,000 (Libras -  759,543, Dolares - 913,783)"
+    },
+    {
+      "ID": "261",
+      "NAME": "Ivo Grbić",
+      "COUNTRY": "hr CRO",
+      "POSITION": "GK",
+      "CLUB": "Atlético Madrid",
+      "AGE": "26",
+      "WEEK": "Euros -  16,538 (Libras -  14,607, Dolares - 17,573)",
+      "YEAR": "Euros -  860,000 (Libras -  759,543, Dolares - 913,783)"
+    },
+    {
+      "ID": "262",
+      "NAME": "Francisco Portillo",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Almería",
+      "AGE": "32",
+      "WEEK": "Euros -  16,346 (Libras -  14,437, Dolares - 17,368)",
+      "YEAR": "Euros -  850,000 (Libras -  750,711, Dolares - 903,158)"
+    },
+    {
+      "ID": "263",
+      "NAME": "Diego Rico",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Real Sociedad",
+      "AGE": "29",
+      "WEEK": "Euros -  16,346 (Libras -  14,437, Dolares - 17,368)",
+      "YEAR": "Euros -  850,000 (Libras -  750,711, Dolares - 903,158)"
+    },
+    {
+      "ID": "264",
+      "NAME": "Predrag Rajković",
+      "COUNTRY": "rs SRB",
+      "POSITION": "GK",
+      "CLUB": "Mallorca",
+      "AGE": "26",
+      "WEEK": "Euros -  16,154 (Libras -  14,267, Dolares - 17,164)",
+      "YEAR": "Euros -  840,000 (Libras -  741,879, Dolares - 892,533)"
+    },
+    {
+      "ID": "265",
+      "NAME": "Tomás Alarcón",
+      "COUNTRY": "cl CHI",
+      "POSITION": "MF",
+      "CLUB": "Cádiz",
+      "AGE": "23",
+      "WEEK": "Euros -  15,962 (Libras -  14,097, Dolares - 16,960)",
+      "YEAR": "Euros -  830,000 (Libras -  733,047, Dolares - 881,907)"
+    },
+    {
+      "ID": "266",
+      "NAME": "Iddrisu Baba",
+      "COUNTRY": "gh GHA",
+      "POSITION": "MF",
+      "CLUB": "Mallorca",
+      "AGE": "26",
+      "WEEK": "Euros -  15,769 (Libras -  13,927, Dolares - 16,755)",
+      "YEAR": "Euros -  820,000 (Libras -  724,215, Dolares - 871,282)"
+    },
+    {
+      "ID": "267",
+      "NAME": "Omar Mascarell",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Elche",
+      "AGE": "29",
+      "WEEK": "Euros -  15,769 (Libras -  13,927, Dolares - 16,755)",
+      "YEAR": "Euros -  820,000 (Libras -  724,215, Dolares - 871,282)"
+    },
+    {
+      "ID": "268",
+      "NAME": "Paulo Gazzaniga",
+      "COUNTRY": "ar ARG",
+      "POSITION": "GK",
+      "CLUB": "Girona",
+      "AGE": "30",
+      "WEEK": "Euros -  15,577 (Libras -  13,757, Dolares - 16,551)",
+      "YEAR": "Euros -  810,000 (Libras -  715,384, Dolares - 860,656)"
+    },
+    {
+      "ID": "269",
+      "NAME": "Loren Morón",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Betis",
+      "AGE": "28",
+      "WEEK": "Euros -  15,577 (Libras -  13,757, Dolares - 16,551)",
+      "YEAR": "Euros -  810,000 (Libras -  715,384, Dolares - 860,656)"
+    },
+    {
+      "ID": "270",
+      "NAME": "Giovanni González",
+      "COUNTRY": "uy URU",
+      "POSITION": "DF",
+      "CLUB": "Mallorca",
+      "AGE": "27",
+      "WEEK": "Euros -  15,385 (Libras -  13,588, Dolares - 16,347)",
+      "YEAR": "Euros -  800,000 (Libras -  706,552, Dolares - 850,031)"
+    },
+    {
+      "ID": "271",
+      "NAME": "Álex Centelles",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Almería",
+      "AGE": "24",
+      "WEEK": "Euros -  15,385 (Libras -  13,588, Dolares - 16,347)",
+      "YEAR": "Euros -  800,000 (Libras -  706,552, Dolares - 850,031)"
+    },
+    {
+      "ID": "272",
+      "NAME": "Álvaro García",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "29",
+      "WEEK": "Euros -  15,385 (Libras -  13,588, Dolares - 16,347)",
+      "YEAR": "Euros -  800,000 (Libras -  706,552, Dolares - 850,031)"
+    },
+    {
+      "ID": "273",
+      "NAME": "Reinildo Mandava",
+      "COUNTRY": "mz MOZ",
+      "POSITION": "DF",
+      "CLUB": "Atlético Madrid",
+      "AGE": "28",
+      "WEEK": "Euros -  15,385 (Libras -  13,588, Dolares - 16,347)",
+      "YEAR": "Euros -  800,000 (Libras -  706,552, Dolares - 850,031)"
+    },
+    {
+      "ID": "274",
+      "NAME": "Mouctar Diakhaby",
+      "COUNTRY": "gn GUI",
+      "POSITION": "DF",
+      "CLUB": "Valencia",
+      "AGE": "25",
+      "WEEK": "Euros -  15,385 (Libras -  13,588, Dolares - 16,347)",
+      "YEAR": "Euros -  800,000 (Libras -  706,552, Dolares - 850,031)"
+    },
+    {
+      "ID": "275",
+      "NAME": "Sergio Escudero",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Valladolid",
+      "AGE": "32",
+      "WEEK": "Euros -  15,000 (Libras -  13,248, Dolares - 15,938)",
+      "YEAR": "Euros -  780,000 (Libras -  688,888, Dolares - 828,780)"
+    },
+    {
+      "ID": "276",
+      "NAME": "Nicolas Jackson",
+      "COUNTRY": "sn SEN",
+      "POSITION": "FW",
+      "CLUB": "Villarreal",
+      "AGE": "21",
+      "WEEK": "Euros -  15,000 (Libras -  13,248, Dolares - 15,938)",
+      "YEAR": "Euros -  780,000 (Libras -  688,888, Dolares - 828,780)"
+    },
+    {
+      "ID": "277",
+      "NAME": "Antonio Raillo",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Mallorca",
+      "AGE": "30",
+      "WEEK": "Euros -  15,000 (Libras -  13,248, Dolares - 15,938)",
+      "YEAR": "Euros -  780,000 (Libras -  688,888, Dolares - 828,780)"
+    },
+    {
+      "ID": "278",
+      "NAME": "Luis Milla",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Getafe",
+      "AGE": "27",
+      "WEEK": "Euros -  15,000 (Libras -  13,248, Dolares - 15,938)",
+      "YEAR": "Euros -  780,000 (Libras -  688,888, Dolares - 828,780)"
+    },
+    {
+      "ID": "279",
+      "NAME": "Miguel Gutiérrez",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Girona",
+      "AGE": "21",
+      "WEEK": "Euros -  15,000 (Libras -  13,248, Dolares - 15,938)",
+      "YEAR": "Euros -  780,000 (Libras -  688,888, Dolares - 828,780)"
+    },
+    {
+      "ID": "280",
+      "NAME": "Gonçalo Paciência",
+      "COUNTRY": "pt POR",
+      "POSITION": "FW,MF",
+      "CLUB": "Celta Vigo",
+      "AGE": "27",
+      "WEEK": "Euros -  15,000 (Libras -  13,248, Dolares - 15,938)",
+      "YEAR": "Euros -  780,000 (Libras -  688,888, Dolares - 828,780)"
+    },
+    {
+      "ID": "281",
+      "NAME": "Darko Brašanac",
+      "COUNTRY": "rs SRB",
+      "POSITION": "MF",
+      "CLUB": "Osasuna",
+      "AGE": "30",
+      "WEEK": "Euros -  14,808 (Libras -  13,078, Dolares - 15,734)",
+      "YEAR": "Euros -  770,000 (Libras -  680,056, Dolares - 818,155)"
+    },
+    {
+      "ID": "282",
+      "NAME": "Rubén Alcaraz",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Cádiz",
+      "AGE": "31",
+      "WEEK": "Euros -  14,808 (Libras -  13,078, Dolares - 15,734)",
+      "YEAR": "Euros -  770,000 (Libras -  680,056, Dolares - 818,155)"
+    },
+    {
+      "ID": "283",
+      "NAME": "Youssouf Sabaly",
+      "COUNTRY": "sn SEN",
+      "POSITION": "DF",
+      "CLUB": "Betis",
+      "AGE": "29",
+      "WEEK": "Euros -  14,423 (Libras -  12,738, Dolares - 15,325)",
+      "YEAR": "Euros -  750,000 (Libras -  662,392, Dolares - 796,904)"
+    },
+    {
+      "ID": "284",
+      "NAME": "Abdul Mumin",
+      "COUNTRY": "gh GHA",
+      "POSITION": "DF",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "24",
+      "WEEK": "Euros -  14,038 (Libras -  12,399, Dolares - 14,916)",
+      "YEAR": "Euros -  730,000 (Libras -  644,728, Dolares - 775,653)"
+    },
+    {
+      "ID": "285",
+      "NAME": "Rubén Peña",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF,MF",
+      "CLUB": "Osasuna",
+      "AGE": "31",
+      "WEEK": "Euros -  13,846 (Libras -  12,229, Dolares - 14,712)",
+      "YEAR": "Euros -  720,000 (Libras -  635,896, Dolares - 765,028)"
+    },
+    {
+      "ID": "286",
+      "NAME": "Alejandro Pozo Pozo",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF,MF",
+      "CLUB": "Almería",
+      "AGE": "23",
+      "WEEK": "Euros -  13,846 (Libras -  12,229, Dolares - 14,712)",
+      "YEAR": "Euros -  720,000 (Libras -  635,896, Dolares - 765,028)"
+    },
+    {
+      "ID": "287",
+      "NAME": "Edu Expósito",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Espanyol",
+      "AGE": "25",
+      "WEEK": "Euros -  13,846 (Libras -  12,229, Dolares - 14,712)",
+      "YEAR": "Euros -  720,000 (Libras -  635,896, Dolares - 765,028)"
+    },
+    {
+      "ID": "288",
+      "NAME": "Fede San Emeterio",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Cádiz",
+      "AGE": "25",
+      "WEEK": "Euros -  13,846 (Libras -  12,229, Dolares - 14,712)",
+      "YEAR": "Euros -  720,000 (Libras -  635,896, Dolares - 765,028)"
+    },
+    {
+      "ID": "289",
+      "NAME": "Roberto Torres",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Osasuna",
+      "AGE": "33",
+      "WEEK": "Euros -  13,654 (Libras -  12,059, Dolares - 14,508)",
+      "YEAR": "Euros -  710,000 (Libras -  627,065, Dolares - 754,402)"
+    },
+    {
+      "ID": "290",
+      "NAME": "Martin Valjent",
+      "COUNTRY": "sk SVK",
+      "POSITION": "DF",
+      "CLUB": "Mallorca",
+      "AGE": "26",
+      "WEEK": "Euros -  13,462 (Libras -  11,889, Dolares - 14,303)",
+      "YEAR": "Euros -  700,000 (Libras -  618,233, Dolares - 743,777)"
+    },
+    {
+      "ID": "291",
+      "NAME": "Stole Dimitrievski",
+      "COUNTRY": "mk MKD",
+      "POSITION": "GK",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "28",
+      "WEEK": "Euros -  13,462 (Libras -  11,889, Dolares - 14,303)",
+      "YEAR": "Euros -  700,000 (Libras -  618,233, Dolares - 743,777)"
+    },
+    {
+      "ID": "292",
+      "NAME": "Keidi Bare",
+      "COUNTRY": "al ALB",
+      "POSITION": "MF",
+      "CLUB": "Espanyol",
+      "AGE": "24",
+      "WEEK": "Euros -  13,462 (Libras -  11,889, Dolares - 14,303)",
+      "YEAR": "Euros -  700,000 (Libras -  618,233, Dolares - 743,777)"
+    },
+    {
+      "ID": "293",
+      "NAME": "Andoni Gorosabel",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Real Sociedad",
+      "AGE": "25",
+      "WEEK": "Euros -  13,462 (Libras -  11,889, Dolares - 14,303)",
+      "YEAR": "Euros -  700,000 (Libras -  618,233, Dolares - 743,777)"
+    },
+    {
+      "ID": "294",
+      "NAME": "Rubén Sobrino",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Cádiz",
+      "AGE": "30",
+      "WEEK": "Euros -  13,462 (Libras -  11,889, Dolares - 14,303)",
+      "YEAR": "Euros -  700,000 (Libras -  618,233, Dolares - 743,777)"
+    },
+    {
+      "ID": "295",
+      "NAME": "Unai García",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Osasuna",
+      "AGE": "30",
+      "WEEK": "Euros -  13,077 (Libras -  11,549, Dolares - 13,895)",
+      "YEAR": "Euros -  680,000 (Libras -  600,569, Dolares - 722,526)"
+    },
+    {
+      "ID": "296",
+      "NAME": "Álex Moreno",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Betis",
+      "AGE": "29",
+      "WEEK": "Euros -  13,077 (Libras -  11,549, Dolares - 13,895)",
+      "YEAR": "Euros -  680,000 (Libras -  600,569, Dolares - 722,526)"
+    },
+    {
+      "ID": "297",
+      "NAME": "Jawad El Yamiq",
+      "COUNTRY": "ma MAR",
+      "POSITION": "DF",
+      "CLUB": "Valladolid",
+      "AGE": "30",
+      "WEEK": "Euros -  12,885 (Libras -  11,380, Dolares - 13,690)",
+      "YEAR": "Euros -  670,000 (Libras -  591,737, Dolares - 711,901)"
+    },
+    {
+      "ID": "298",
+      "NAME": "Javi Sánchez",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Valladolid",
+      "AGE": "25",
+      "WEEK": "Euros -  12,692 (Libras -  11,210, Dolares - 13,486)",
+      "YEAR": "Euros -  660,000 (Libras -  582,905, Dolares - 701,276)"
+    },
+    {
+      "ID": "299",
+      "NAME": "Iñigo Ruiz de Galarreta",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Mallorca",
+      "AGE": "28",
+      "WEEK": "Euros -  12,692 (Libras -  11,210, Dolares - 13,486)",
+      "YEAR": "Euros -  660,000 (Libras -  582,905, Dolares - 701,276)"
+    },
+    {
+      "ID": "300",
+      "NAME": "Juan Pérez",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Osasuna",
+      "AGE": "26",
+      "WEEK": "Euros -  12,500 (Libras -  11,040, Dolares - 13,282)",
+      "YEAR": "Euros -  650,000 (Libras -  574,073, Dolares - 690,650)"
+    },
+    {
+      "ID": "301",
+      "NAME": "Franco Russo",
+      "COUNTRY": "ar ARG",
+      "POSITION": "DF",
+      "CLUB": "Mallorca",
+      "AGE": "27",
+      "WEEK": "Euros -  12,500 (Libras -  11,040, Dolares - 13,282)",
+      "YEAR": "Euros -  650,000 (Libras -  574,073, Dolares - 690,650)"
+    },
+    {
+      "ID": "302",
+      "NAME": "Édgar Badía",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Elche",
+      "AGE": "30",
+      "WEEK": "Euros -  12,500 (Libras -  11,040, Dolares - 13,282)",
+      "YEAR": "Euros -  650,000 (Libras -  574,073, Dolares - 690,650)"
+    },
+    {
+      "ID": "303",
+      "NAME": "Dani Gómez",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Espanyol",
+      "AGE": "24",
+      "WEEK": "Euros -  12,500 (Libras -  11,040, Dolares - 13,282)",
+      "YEAR": "Euros -  650,000 (Libras -  574,073, Dolares - 690,650)"
+    },
+    {
+      "ID": "304",
+      "NAME": "Sergi Gómez",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Espanyol",
+      "AGE": "30",
+      "WEEK": "Euros -  12,500 (Libras -  11,040, Dolares - 13,282)",
+      "YEAR": "Euros -  650,000 (Libras -  574,073, Dolares - 690,650)"
+    },
+    {
+      "ID": "305",
+      "NAME": "Kike",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Osasuna",
+      "AGE": "32",
+      "WEEK": "Euros -  12,308 (Libras -  10,870, Dolares - 13,077)",
+      "YEAR": "Euros -  640,000 (Libras -  565,241, Dolares - 680,025)"
+    },
+    {
+      "ID": "306",
+      "NAME": "Ante Budimir",
+      "COUNTRY": "hr CRO",
+      "POSITION": "FW",
+      "CLUB": "Osasuna",
+      "AGE": "31",
+      "WEEK": "Euros -  12,115 (Libras -  10,700, Dolares - 12,873)",
+      "YEAR": "Euros -  630,000 (Libras -  556,409, Dolares - 669,399)"
+    },
+    {
+      "ID": "307",
+      "NAME": "Carles Aleñá",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Getafe",
+      "AGE": "24",
+      "WEEK": "Euros -  12,115 (Libras -  10,700, Dolares - 12,873)",
+      "YEAR": "Euros -  630,000 (Libras -  556,409, Dolares - 669,399)"
+    },
+    {
+      "ID": "308",
+      "NAME": "David García",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Osasuna",
+      "AGE": "28",
+      "WEEK": "Euros -  11,923 (Libras -  10,530, Dolares - 12,669)",
+      "YEAR": "Euros -  620,000 (Libras -  547,578, Dolares - 658,774)"
+    },
+    {
+      "ID": "309",
+      "NAME": "Juan Cruz Armada",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Osasuna",
+      "AGE": "30",
+      "WEEK": "Euros -  11,923 (Libras -  10,530, Dolares - 12,669)",
+      "YEAR": "Euros -  620,000 (Libras -  547,578, Dolares - 658,774)"
+    },
+    {
+      "ID": "310",
+      "NAME": "Fidel",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Elche",
+      "AGE": "32",
+      "WEEK": "Euros -  11,923 (Libras -  10,530, Dolares - 12,669)",
+      "YEAR": "Euros -  620,000 (Libras -  547,578, Dolares - 658,774)"
+    },
+    {
+      "ID": "311",
+      "NAME": "Damián Suárez",
+      "COUNTRY": "uy URU",
+      "POSITION": "DF",
+      "CLUB": "Getafe",
+      "AGE": "34",
+      "WEEK": "Euros -  11,923 (Libras -  10,530, Dolares - 12,669)",
+      "YEAR": "Euros -  620,000 (Libras -  547,578, Dolares - 658,774)"
+    },
+    {
+      "ID": "312",
+      "NAME": "Íñigo Eguaras",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Almería",
+      "AGE": "30",
+      "WEEK": "Euros -  11,923 (Libras -  10,530, Dolares - 12,669)",
+      "YEAR": "Euros -  620,000 (Libras -  547,578, Dolares - 658,774)"
+    },
+    {
+      "ID": "313",
+      "NAME": "Esteban Saveljich",
+      "COUNTRY": "me MNE",
+      "POSITION": "FW",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "31",
+      "WEEK": "Euros -  11,923 (Libras -  10,530, Dolares - 12,669)",
+      "YEAR": "Euros -  620,000 (Libras -  547,578, Dolares - 658,774)"
+    },
+    {
+      "ID": "314",
+      "NAME": "Óscar Trejo",
+      "COUNTRY": "ar ARG",
+      "POSITION": "MF,FW",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "34",
+      "WEEK": "Euros -  11,923 (Libras -  10,530, Dolares - 12,669)",
+      "YEAR": "Euros -  620,000 (Libras -  547,578, Dolares - 658,774)"
+    },
+    {
+      "ID": "315",
+      "NAME": "Anthony Lozano",
+      "COUNTRY": "hn HON",
+      "POSITION": "FW",
+      "CLUB": "Cádiz",
+      "AGE": "29",
+      "WEEK": "Euros -  11,923 (Libras -  10,530, Dolares - 12,669)",
+      "YEAR": "Euros -  620,000 (Libras -  547,578, Dolares - 658,774)"
+    },
+    {
+      "ID": "316",
+      "NAME": "Aridane Hernández",
+      "COUNTRY": "gq EQG",
+      "POSITION": "DF",
+      "CLUB": "Osasuna",
+      "AGE": "33",
+      "WEEK": "Euros -  11,731 (Libras -  10,361, Dolares - 12,464)",
+      "YEAR": "Euros -  610,000 (Libras -  538,746, Dolares - 648,149)"
+    },
+    {
+      "ID": "317",
+      "NAME": "Mickael Malsa",
+      "COUNTRY": "mq MTQ",
+      "POSITION": "MF",
+      "CLUB": "Valladolid",
+      "AGE": "26",
+      "WEEK": "Euros -  11,538 (Libras -  10,191, Dolares - 12,260)",
+      "YEAR": "Euros -  600,000 (Libras -  529,914, Dolares - 637,523)"
+    },
+    {
+      "ID": "318",
+      "NAME": "Pepe Reina",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Villarreal",
+      "AGE": "39",
+      "WEEK": "Euros -  11,538 (Libras -  10,191, Dolares - 12,260)",
+      "YEAR": "Euros -  600,000 (Libras -  529,914, Dolares - 637,523)"
+    },
+    {
+      "ID": "319",
+      "NAME": "Mikel Vesga",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Athletic Club",
+      "AGE": "29",
+      "WEEK": "Euros -  11,538 (Libras -  10,191, Dolares - 12,260)",
+      "YEAR": "Euros -  600,000 (Libras -  529,914, Dolares - 637,523)"
+    },
+    {
+      "ID": "320",
+      "NAME": "Fabrizio Angileri",
+      "COUNTRY": "ar ARG",
+      "POSITION": "DF",
+      "CLUB": "Getafe",
+      "AGE": "28",
+      "WEEK": "Euros -  11,538 (Libras -  10,191, Dolares - 12,260)",
+      "YEAR": "Euros -  600,000 (Libras -  529,914, Dolares - 637,523)"
+    },
+    {
+      "ID": "321",
+      "NAME": "Léo Baptistão",
+      "COUNTRY": "br BRA",
+      "POSITION": "FW,MF",
+      "CLUB": "Almería",
+      "AGE": "29",
+      "WEEK": "Euros -  11,538 (Libras -  10,191, Dolares - 12,260)",
+      "YEAR": "Euros -  600,000 (Libras -  529,914, Dolares - 637,523)"
+    },
+    {
+      "ID": "322",
+      "NAME": "Rodrigo Ely",
+      "COUNTRY": "br BRA",
+      "POSITION": "DF",
+      "CLUB": "Almería",
+      "AGE": "28",
+      "WEEK": "Euros -  11,538 (Libras -  10,191, Dolares - 12,260)",
+      "YEAR": "Euros -  600,000 (Libras -  529,914, Dolares - 637,523)"
+    },
+    {
+      "ID": "323",
+      "NAME": "Reinier",
+      "COUNTRY": "br BRA",
+      "POSITION": "MF,FW",
+      "CLUB": "Girona",
+      "AGE": "20",
+      "WEEK": "Euros -  11,538 (Libras -  10,191, Dolares - 12,260)",
+      "YEAR": "Euros -  600,000 (Libras -  529,914, Dolares - 637,523)"
+    },
+    {
+      "ID": "324",
+      "NAME": "José Pozo",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "26",
+      "WEEK": "Euros -  11,538 (Libras -  10,191, Dolares - 12,260)",
+      "YEAR": "Euros -  600,000 (Libras -  529,914, Dolares - 637,523)"
+    },
+    {
+      "ID": "325",
+      "NAME": "Domingos André Ribeiro Almeida",
+      "COUNTRY": "pt POR",
+      "POSITION": "MF",
+      "CLUB": "Valencia",
+      "AGE": "22",
+      "WEEK": "Euros -  11,538 (Libras -  10,191, Dolares - 12,260)",
+      "YEAR": "Euros -  600,000 (Libras -  529,914, Dolares - 637,523)"
+    },
+    {
+      "ID": "326",
+      "NAME": "Nicolás González",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Valencia",
+      "AGE": "20",
+      "WEEK": "Euros -  11,538 (Libras -  10,191, Dolares - 12,260)",
+      "YEAR": "Euros -  600,000 (Libras -  529,914, Dolares - 637,523)"
+    },
+    {
+      "ID": "327",
+      "NAME": "Unai López",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "26",
+      "WEEK": "Euros -  11,346 (Libras -  10,021, Dolares - 12,056)",
+      "YEAR": "Euros -  590,000 (Libras -  521,082, Dolares - 626,898)"
+    },
+    {
+      "ID": "328",
+      "NAME": "Cenk Özkacar",
+      "COUNTRY": "tr TUR",
+      "POSITION": "DF",
+      "CLUB": "Valencia",
+      "AGE": "21",
+      "WEEK": "Euros -  11,346 (Libras -  10,021, Dolares - 12,056)",
+      "YEAR": "Euros -  590,000 (Libras -  521,082, Dolares - 626,898)"
+    },
+    {
+      "ID": "329",
+      "NAME": "Julen Agirrezabala",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Athletic Club",
+      "AGE": "21",
+      "WEEK": "Euros -  11,154 (Libras -  9,851, Dolares - 11,851)",
+      "YEAR": "Euros -  580,000 (Libras -  512,250, Dolares - 616,272)"
+    },
+    {
+      "ID": "330",
+      "NAME": "Mario Suárez",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF,MF",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "35",
+      "WEEK": "Euros -  10,962 (Libras -  9,681, Dolares - 11,647)",
+      "YEAR": "Euros -  570,000 (Libras -  503,418, Dolares - 605,647)"
+    },
+    {
+      "ID": "331",
+      "NAME": "Clément Grenier",
+      "COUNTRY": "fr FRA",
+      "POSITION": "MF",
+      "CLUB": "Mallorca",
+      "AGE": "31",
+      "WEEK": "Euros -  10,385 (Libras -  9,172, Dolares - 11,034)",
+      "YEAR": "Euros -  540,000 (Libras -  476,922, Dolares - 573,771)"
+    },
+    {
+      "ID": "332",
+      "NAME": "Jaime Seoane",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Getafe",
+      "AGE": "25",
+      "WEEK": "Euros -  10,385 (Libras -  9,172, Dolares - 11,034)",
+      "YEAR": "Euros -  540,000 (Libras -  476,922, Dolares - 573,771)"
+    },
+    {
+      "ID": "333",
+      "NAME": "Gonzalo Melero",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Almería",
+      "AGE": "28",
+      "WEEK": "Euros -  10,385 (Libras -  9,172, Dolares - 11,034)",
+      "YEAR": "Euros -  540,000 (Libras -  476,922, Dolares - 573,771)"
+    },
+    {
+      "ID": "334",
+      "NAME": "Kaiky",
+      "COUNTRY": "br BRA",
+      "POSITION": "DF",
+      "CLUB": "Almería",
+      "AGE": "18",
+      "WEEK": "Euros -  10,385 (Libras -  9,172, Dolares - 11,034)",
+      "YEAR": "Euros -  540,000 (Libras -  476,922, Dolares - 573,771)"
+    },
+    {
+      "ID": "335",
+      "NAME": "Toni Villa",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Girona",
+      "AGE": "27",
+      "WEEK": "Euros -  10,385 (Libras -  9,172, Dolares - 11,034)",
+      "YEAR": "Euros -  540,000 (Libras -  476,922, Dolares - 573,771)"
+    },
+    {
+      "ID": "336",
+      "NAME": "Sergio Camello",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "21",
+      "WEEK": "Euros -  10,385 (Libras -  9,172, Dolares - 11,034)",
+      "YEAR": "Euros -  540,000 (Libras -  476,922, Dolares - 573,771)"
+    },
+    {
+      "ID": "337",
+      "NAME": "Brian Oliván",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Espanyol",
+      "AGE": "28",
+      "WEEK": "Euros -  10,385 (Libras -  9,172, Dolares - 11,034)",
+      "YEAR": "Euros -  540,000 (Libras -  476,922, Dolares - 573,771)"
+    },
+    {
+      "ID": "338",
+      "NAME": "José Ángel Carmona",
+      "POSITION": "RB",
+      "CLUB": "Sevilla",
+      "AGE": "20",
+      "WEEK": "Euros -  10,385 (Libras -  9,172, Dolares - 11,034)",
+      "YEAR": "Euros -  540,000 (Libras -  476,922, Dolares - 573,771)"
+    },
+    {
+      "ID": "339",
+      "NAME": "Beñat Turrientes",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Real Sociedad",
+      "AGE": "20",
+      "WEEK": "Euros -  10,385 (Libras -  9,172, Dolares - 11,034)",
+      "YEAR": "Euros -  540,000 (Libras -  476,922, Dolares - 573,771)"
+    },
+    {
+      "ID": "340",
+      "NAME": "Brian Ocampo",
+      "POSITION": "RW",
+      "CLUB": "Cádiz",
+      "AGE": "23",
+      "WEEK": "Euros -  10,385 (Libras -  9,172, Dolares - 11,034)",
+      "YEAR": "Euros -  540,000 (Libras -  476,922, Dolares - 573,771)"
+    },
+    {
+      "ID": "341",
+      "NAME": "Luis Pérez",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Valladolid",
+      "AGE": "27",
+      "WEEK": "Euros -  10,000 (Libras -  8,832, Dolares - 10,625)",
+      "YEAR": "Euros -  520,000 (Libras -  459,259, Dolares - 552,520)"
+    },
+    {
+      "ID": "342",
+      "NAME": "Domingos Quina",
+      "COUNTRY": "pt POR",
+      "POSITION": "MF",
+      "CLUB": "Elche",
+      "AGE": "22",
+      "WEEK": "Euros -  10,000 (Libras -  8,832, Dolares - 10,625)",
+      "YEAR": "Euros -  520,000 (Libras -  459,259, Dolares - 552,520)"
+    },
+    {
+      "ID": "343",
+      "NAME": "Santi Comesaña",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "25",
+      "WEEK": "Euros -  10,000 (Libras -  8,832, Dolares - 10,625)",
+      "YEAR": "Euros -  520,000 (Libras -  459,259, Dolares - 552,520)"
+    },
+    {
+      "ID": "344",
+      "NAME": "Óscar Gil",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Espanyol",
+      "AGE": "25",
+      "WEEK": "Euros -  10,000 (Libras -  8,832, Dolares - 10,625)",
+      "YEAR": "Euros -  520,000 (Libras -  459,259, Dolares - 552,520)"
+    },
+    {
+      "ID": "345",
+      "NAME": "Paul Akouokou",
+      "COUNTRY": "ci CIV",
+      "POSITION": "MF",
+      "CLUB": "Betis",
+      "AGE": "24",
+      "WEEK": "Euros -  9,808 (Libras -  8,662, Dolares - 10,421)",
+      "YEAR": "Euros -  510,000 (Libras -  450,427, Dolares - 541,895)"
+    },
+    {
+      "ID": "346",
+      "NAME": "Jon Moncayola",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,DF",
+      "CLUB": "Osasuna",
+      "AGE": "24",
+      "WEEK": "Euros -  9,615 (Libras -  8,492, Dolares - 10,217)",
+      "YEAR": "Euros -  500,000 (Libras -  441,595, Dolares - 531,269)"
+    },
+    {
+      "ID": "347",
+      "NAME": "Alex Baena",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Villarreal",
+      "AGE": "21",
+      "WEEK": "Euros -  9,615 (Libras -  8,492, Dolares - 10,217)",
+      "YEAR": "Euros -  500,000 (Libras -  441,595, Dolares - 531,269)"
+    },
+    {
+      "ID": "348",
+      "NAME": "Braian Cufré",
+      "COUNTRY": "ar ARG",
+      "POSITION": "DF",
+      "CLUB": "Mallorca",
+      "AGE": "25",
+      "WEEK": "Euros -  9,615 (Libras -  8,492, Dolares - 10,217)",
+      "YEAR": "Euros -  500,000 (Libras -  441,595, Dolares - 531,269)"
+    },
+    {
+      "ID": "349",
+      "NAME": "Juanjo Nieto",
+      "COUNTRY": "es ESP",
+      "POSITION": "RB",
+      "CLUB": "Almería",
+      "AGE": "27",
+      "WEEK": "Euros -  9,615 (Libras -  8,492, Dolares - 10,217)",
+      "YEAR": "Euros -  500,000 (Libras -  441,595, Dolares - 531,269)"
+    },
+    {
+      "ID": "350",
+      "NAME": "Javi Puado",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Espanyol",
+      "AGE": "24",
+      "WEEK": "Euros -  9,615 (Libras -  8,492, Dolares - 10,217)",
+      "YEAR": "Euros -  500,000 (Libras -  441,595, Dolares - 531,269)"
+    },
+    {
+      "ID": "351",
+      "NAME": "Martín Merquelanz",
+      "COUNTRY": "es ESP",
+      "POSITION": "LW",
+      "CLUB": "Real Sociedad",
+      "AGE": "27",
+      "WEEK": "Euros -  9,615 (Libras -  8,492, Dolares - 10,217)",
+      "YEAR": "Euros -  500,000 (Libras -  441,595, Dolares - 531,269)"
+    },
+    {
+      "ID": "352",
+      "NAME": "Alfonso Espino",
+      "COUNTRY": "uy URU",
+      "POSITION": "DF",
+      "CLUB": "Cádiz",
+      "AGE": "30",
+      "WEEK": "Euros -  9,615 (Libras -  8,492, Dolares - 10,217)",
+      "YEAR": "Euros -  500,000 (Libras -  441,595, Dolares - 531,269)"
+    },
+    {
+      "ID": "353",
+      "NAME": "Fali",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF,MF",
+      "CLUB": "Cádiz",
+      "AGE": "28",
+      "WEEK": "Euros -  9,615 (Libras -  8,492, Dolares - 10,217)",
+      "YEAR": "Euros -  500,000 (Libras -  441,595, Dolares - 531,269)"
+    },
+    {
+      "ID": "354",
+      "NAME": "Óscar Plano",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Valladolid",
+      "AGE": "31",
+      "WEEK": "Euros -  9,423 (Libras -  8,322, Dolares - 10,012)",
+      "YEAR": "Euros -  490,000 (Libras -  432,763, Dolares - 520,644)"
+    },
+    {
+      "ID": "355",
+      "NAME": "Álex Fernández",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Cádiz",
+      "AGE": "29",
+      "WEEK": "Euros -  9,423 (Libras -  8,322, Dolares - 10,012)",
+      "YEAR": "Euros -  490,000 (Libras -  432,763, Dolares - 520,644)"
+    },
+    {
+      "ID": "356",
+      "NAME": "Gonzalo Plata",
+      "COUNTRY": "ec ECU",
+      "POSITION": "FW,MF",
+      "CLUB": "Valladolid",
+      "AGE": "21",
+      "WEEK": "Euros -  9,231 (Libras -  8,153, Dolares - 9,808)",
+      "YEAR": "Euros -  480,000 (Libras -  423,931, Dolares - 510,019)"
+    },
+    {
+      "ID": "357",
+      "NAME": "Jordi Masip",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Valladolid",
+      "AGE": "33",
+      "WEEK": "Euros -  9,231 (Libras -  8,153, Dolares - 9,808)",
+      "YEAR": "Euros -  480,000 (Libras -  423,931, Dolares - 510,019)"
+    },
+    {
+      "ID": "358",
+      "NAME": "Yan Couto",
+      "COUNTRY": "br BRA",
+      "POSITION": "DF,MF",
+      "CLUB": "Girona",
+      "AGE": "20",
+      "WEEK": "Euros -  9,231 (Libras -  8,153, Dolares - 9,808)",
+      "YEAR": "Euros -  480,000 (Libras -  423,931, Dolares - 510,019)"
+    },
+    {
+      "ID": "359",
+      "NAME": "Jesus Vazquez",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF,MF",
+      "CLUB": "Valencia",
+      "AGE": "19",
+      "WEEK": "Euros -  9,231 (Libras -  8,153, Dolares - 9,808)",
+      "YEAR": "Euros -  480,000 (Libras -  423,931, Dolares - 510,019)"
+    },
+    {
+      "ID": "360",
+      "NAME": "Isaac Carcelen",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Cádiz",
+      "AGE": "29",
+      "WEEK": "Euros -  9,231 (Libras -  8,153, Dolares - 9,808)",
+      "YEAR": "Euros -  480,000 (Libras -  423,931, Dolares - 510,019)"
+    },
+    {
+      "ID": "361",
+      "NAME": "Luiz Henrique",
+      "COUNTRY": "br BRA",
+      "POSITION": "FW",
+      "CLUB": "Betis",
+      "AGE": "21",
+      "WEEK": "Euros -  9,231 (Libras -  8,153, Dolares - 9,808)",
+      "YEAR": "Euros -  480,000 (Libras -  423,931, Dolares - 510,019)"
+    },
+    {
+      "ID": "362",
+      "NAME": "Raúl Guti",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Elche",
+      "AGE": "25",
+      "WEEK": "Euros -  9,038 (Libras -  7,983, Dolares - 9,604)",
+      "YEAR": "Euros -  470,000 (Libras -  415,099, Dolares - 499,393)"
+    },
+    {
+      "ID": "363",
+      "NAME": "Iván Alejo",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Cádiz",
+      "AGE": "27",
+      "WEEK": "Euros -  9,038 (Libras -  7,983, Dolares - 9,604)",
+      "YEAR": "Euros -  470,000 (Libras -  415,099, Dolares - 499,393)"
+    },
+    {
+      "ID": "364",
+      "NAME": "Kike Barja",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Osasuna",
+      "AGE": "25",
+      "WEEK": "Euros -  8,846 (Libras -  7,813, Dolares - 9,399)",
+      "YEAR": "Euros -  460,000 (Libras -  406,267, Dolares - 488,768)"
+    },
+    {
+      "ID": "365",
+      "NAME": "Nico Ribaudo",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Espanyol",
+      "AGE": "21",
+      "WEEK": "Euros -  8,846 (Libras -  7,813, Dolares - 9,399)",
+      "YEAR": "Euros -  460,000 (Libras -  406,267, Dolares - 488,768)"
+    },
+    {
+      "ID": "366",
+      "NAME": "Lucas Torró",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Osasuna",
+      "AGE": "28",
+      "WEEK": "Euros -  8,654 (Libras -  7,643, Dolares - 9,195)",
+      "YEAR": "Euros -  450,000 (Libras -  397,435, Dolares - 478,142)"
+    },
+    {
+      "ID": "367",
+      "NAME": "Lago Junior",
+      "COUNTRY": "ci CIV",
+      "POSITION": "FW,MF",
+      "CLUB": "Mallorca",
+      "AGE": "31",
+      "WEEK": "Euros -  8,654 (Libras -  7,643, Dolares - 9,195)",
+      "YEAR": "Euros -  450,000 (Libras -  397,435, Dolares - 478,142)"
+    },
+    {
+      "ID": "368",
+      "NAME": "Jørgen Strand Larsen",
+      "COUNTRY": "no NOR",
+      "POSITION": "FW",
+      "CLUB": "Celta Vigo",
+      "AGE": "22",
+      "WEEK": "Euros -  8,654 (Libras -  7,643, Dolares - 9,195)",
+      "YEAR": "Euros -  450,000 (Libras -  397,435, Dolares - 478,142)"
+    },
+    {
+      "ID": "369",
+      "NAME": "Dani Rodríguez",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Mallorca",
+      "AGE": "34",
+      "WEEK": "Euros -  8,462 (Libras -  7,473, Dolares - 8,991)",
+      "YEAR": "Euros -  440,000 (Libras -  388,603, Dolares - 467,517)"
+    },
+    {
+      "ID": "370",
+      "NAME": "Catena",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "27",
+      "WEEK": "Euros -  8,462 (Libras -  7,473, Dolares - 8,991)",
+      "YEAR": "Euros -  440,000 (Libras -  388,603, Dolares - 467,517)"
+    },
+    {
+      "ID": "371",
+      "NAME": "Aitor Ruibal",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF,FW",
+      "CLUB": "Betis",
+      "AGE": "26",
+      "WEEK": "Euros -  8,462 (Libras -  7,473, Dolares - 8,991)",
+      "YEAR": "Euros -  440,000 (Libras -  388,603, Dolares - 467,517)"
+    },
+    {
+      "ID": "372",
+      "NAME": "Jon Pacheco",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Real Sociedad",
+      "AGE": "21",
+      "WEEK": "Euros -  8,269 (Libras -  7,303, Dolares - 8,786)",
+      "YEAR": "Euros -  430,000 (Libras -  379,771, Dolares - 456,892)"
+    },
+    {
+      "ID": "373",
+      "NAME": "Kike Pérez",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Valladolid",
+      "AGE": "25",
+      "WEEK": "Euros -  8,077 (Libras -  7,133, Dolares - 8,582)",
+      "YEAR": "Euros -  420,000 (Libras -  370,940, Dolares - 446,266)"
+    },
+    {
+      "ID": "374",
+      "NAME": "Zouhair Feddal",
+      "COUNTRY": "ma MAR",
+      "POSITION": "DF",
+      "CLUB": "Valladolid",
+      "AGE": "33",
+      "WEEK": "Euros -  8,077 (Libras -  7,133, Dolares - 8,582)",
+      "YEAR": "Euros -  420,000 (Libras -  370,940, Dolares - 446,266)"
+    },
+    {
+      "ID": "375",
+      "NAME": "Amath",
+      "COUNTRY": "sn SEN",
+      "POSITION": "MF,FW",
+      "CLUB": "Mallorca",
+      "AGE": "26",
+      "WEEK": "Euros -  8,077 (Libras -  7,133, Dolares - 8,582)",
+      "YEAR": "Euros -  420,000 (Libras -  370,940, Dolares - 446,266)"
+    },
+    {
+      "ID": "376",
+      "NAME": "José Carlos Lazo",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Espanyol",
+      "AGE": "26",
+      "WEEK": "Euros -  8,077 (Libras -  7,133, Dolares - 8,582)",
+      "YEAR": "Euros -  420,000 (Libras -  370,940, Dolares - 446,266)"
+    },
+    {
+      "ID": "377",
+      "NAME": "Vinicius Souza",
+      "COUNTRY": "br BRA",
+      "POSITION": "MF",
+      "CLUB": "Espanyol",
+      "AGE": "23",
+      "WEEK": "Euros -  8,077 (Libras -  7,133, Dolares - 8,582)",
+      "YEAR": "Euros -  420,000 (Libras -  370,940, Dolares - 446,266)"
+    },
+    {
+      "ID": "378",
+      "NAME": "Roberto Navarro",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Real Sociedad",
+      "AGE": "20",
+      "WEEK": "Euros -  8,077 (Libras -  7,133, Dolares - 8,582)",
+      "YEAR": "Euros -  420,000 (Libras -  370,940, Dolares - 446,266)"
+    },
+    {
+      "ID": "379",
+      "NAME": "Álvaro Giménez",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Cádiz",
+      "AGE": "31",
+      "WEEK": "Euros -  8,077 (Libras -  7,133, Dolares - 8,582)",
+      "YEAR": "Euros -  420,000 (Libras -  370,940, Dolares - 446,266)"
+    },
+    {
+      "ID": "380",
+      "NAME": "José Mari",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Cádiz",
+      "AGE": "34",
+      "WEEK": "Euros -  7,885 (Libras -  6,964, Dolares - 8,378)",
+      "YEAR": "Euros -  410,000 (Libras -  362,108, Dolares - 435,641)"
+    },
+    {
+      "ID": "381",
+      "NAME": "Martin Braithwaite",
+      "COUNTRY": "dk DEN",
+      "POSITION": "CF",
+      "CLUB": "Barcelona",
+      "AGE": "31",
+      "WEEK": "Euros -  7,692 (Libras -  6,794, Dolares - 8,173)",
+      "YEAR": "Euros -  400,000 (Libras -  353,276, Dolares - 425,015)"
+    },
+    {
+      "ID": "382",
+      "NAME": "Rodrigo",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Betis",
+      "AGE": "22",
+      "WEEK": "Euros -  7,692 (Libras -  6,794, Dolares - 8,173)",
+      "YEAR": "Euros -  400,000 (Libras -  353,276, Dolares - 425,015)"
+    },
+    {
+      "ID": "383",
+      "NAME": "Juanjo Narváez",
+      "COUNTRY": "co COL",
+      "POSITION": "MF,FW",
+      "CLUB": "Valladolid",
+      "AGE": "27",
+      "WEEK": "Euros -  7,500 (Libras -  6,624, Dolares - 7,969)",
+      "YEAR": "Euros -  390,000 (Libras -  344,444, Dolares - 414,390)"
+    },
+    {
+      "ID": "384",
+      "NAME": "Sergi Guardiola",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Valladolid",
+      "AGE": "31",
+      "WEEK": "Euros -  7,500 (Libras -  6,624, Dolares - 7,969)",
+      "YEAR": "Euros -  390,000 (Libras -  344,444, Dolares - 414,390)"
+    },
+    {
+      "ID": "385",
+      "NAME": "Antonio Sánchez",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Mallorca",
+      "AGE": "25",
+      "WEEK": "Euros -  7,500 (Libras -  6,624, Dolares - 7,969)",
+      "YEAR": "Euros -  390,000 (Libras -  344,444, Dolares - 414,390)"
+    },
+    {
+      "ID": "386",
+      "NAME": "Iván Martos",
+      "COUNTRY": "es ESP",
+      "POSITION": "CB",
+      "CLUB": "Almería",
+      "AGE": "25",
+      "WEEK": "Euros -  7,500 (Libras -  6,624, Dolares - 7,969)",
+      "YEAR": "Euros -  390,000 (Libras -  344,444, Dolares - 414,390)"
+    },
+    {
+      "ID": "387",
+      "NAME": "Rodrigo Riquelme",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Girona",
+      "AGE": "22",
+      "WEEK": "Euros -  7,500 (Libras -  6,624, Dolares - 7,969)",
+      "YEAR": "Euros -  390,000 (Libras -  344,444, Dolares - 414,390)"
+    },
+    {
+      "ID": "388",
+      "NAME": "Álvaro Fernández",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Espanyol",
+      "AGE": "24",
+      "WEEK": "Euros -  7,500 (Libras -  6,624, Dolares - 7,969)",
+      "YEAR": "Euros -  390,000 (Libras -  344,444, Dolares - 414,390)"
+    },
+    {
+      "ID": "389",
+      "NAME": "Awer Mabil",
+      "COUNTRY": "au AUS",
+      "POSITION": "MF,FW",
+      "CLUB": "Cádiz",
+      "AGE": "26",
+      "WEEK": "Euros -  7,500 (Libras -  6,624, Dolares - 7,969)",
+      "YEAR": "Euros -  390,000 (Libras -  344,444, Dolares - 414,390)"
+    },
+    {
+      "ID": "390",
+      "NAME": "Jon Ander Garrido",
+      "COUNTRY": "es ESP",
+      "POSITION": "DM",
+      "CLUB": "Cádiz",
+      "AGE": "32",
+      "WEEK": "Euros -  7,500 (Libras -  6,624, Dolares - 7,969)",
+      "YEAR": "Euros -  390,000 (Libras -  344,444, Dolares - 414,390)"
+    },
+    {
+      "ID": "391",
+      "NAME": "César de la Hoz",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Almería",
+      "AGE": "30",
+      "WEEK": "Euros -  7,308 (Libras -  6,454, Dolares - 7,765)",
+      "YEAR": "Euros -  380,000 (Libras -  335,612, Dolares - 403,765)"
+    },
+    {
+      "ID": "392",
+      "NAME": "Juan Carlos",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Girona",
+      "AGE": "34",
+      "WEEK": "Euros -  7,115 (Libras -  6,284, Dolares - 7,560)",
+      "YEAR": "Euros -  370,000 (Libras -  326,780, Dolares - 393,139)"
+    },
+    {
+      "ID": "393",
+      "NAME": "Aimar Oroz",
+      "POSITION": "CM",
+      "CLUB": "Osasuna",
+      "AGE": "20",
+      "WEEK": "Euros -  6,923 (Libras -  6,114, Dolares - 7,356)",
+      "YEAR": "Euros -  360,000 (Libras -  317,948, Dolares - 382,514)"
+    },
+    {
+      "ID": "394",
+      "NAME": "Arnau Tenas",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Barcelona",
+      "AGE": "21",
+      "WEEK": "Euros -  6,923 (Libras -  6,114, Dolares - 7,356)",
+      "YEAR": "Euros -  360,000 (Libras -  317,948, Dolares - 382,514)"
+    },
+    {
+      "ID": "395",
+      "NAME": "Matija Nastasić",
+      "COUNTRY": "rs SRB",
+      "POSITION": "DF",
+      "CLUB": "Mallorca",
+      "AGE": "29",
+      "WEEK": "Euros -  6,923 (Libras -  6,114, Dolares - 7,356)",
+      "YEAR": "Euros -  360,000 (Libras -  317,948, Dolares - 382,514)"
+    },
+    {
+      "ID": "396",
+      "NAME": "Lázaro",
+      "COUNTRY": "br BRA",
+      "POSITION": "MF,FW",
+      "CLUB": "Almería",
+      "AGE": "20",
+      "WEEK": "Euros -  6,923 (Libras -  6,114, Dolares - 7,356)",
+      "YEAR": "Euros -  360,000 (Libras -  317,948, Dolares - 382,514)"
+    },
+    {
+      "ID": "397",
+      "NAME": "Pep Chavarría",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,DF",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "24",
+      "WEEK": "Euros -  6,923 (Libras -  6,114, Dolares - 7,356)",
+      "YEAR": "Euros -  360,000 (Libras -  317,948, Dolares - 382,514)"
+    },
+    {
+      "ID": "398",
+      "NAME": "Salvi",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "31",
+      "WEEK": "Euros -  6,923 (Libras -  6,114, Dolares - 7,356)",
+      "YEAR": "Euros -  360,000 (Libras -  317,948, Dolares - 382,514)"
+    },
+    {
+      "ID": "399",
+      "NAME": "Antonio Blanco",
+      "POSITION": "DM",
+      "CLUB": "Cádiz",
+      "AGE": "22",
+      "WEEK": "Euros -  6,923 (Libras -  6,114, Dolares - 7,356)",
+      "YEAR": "Euros -  360,000 (Libras -  317,948, Dolares - 382,514)"
+    },
+    {
+      "ID": "400",
+      "NAME": "Juan Miranda",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Betis",
+      "AGE": "22",
+      "WEEK": "Euros -  6,923 (Libras -  6,114, Dolares - 7,356)",
+      "YEAR": "Euros -  360,000 (Libras -  317,948, Dolares - 382,514)"
+    },
+    {
+      "ID": "401",
+      "NAME": "Daniel Martín",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Betis",
+      "AGE": "24",
+      "WEEK": "Euros -  6,731 (Libras -  5,945, Dolares - 7,152)",
+      "YEAR": "Euros -  350,000 (Libras -  309,116, Dolares - 371,889)"
+    },
+    {
+      "ID": "402",
+      "NAME": "Ángel Rodríguez",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Mallorca",
+      "AGE": "35",
+      "WEEK": "Euros -  6,538 (Libras -  5,775, Dolares - 6,947)",
+      "YEAR": "Euros -  340,000 (Libras -  300,284, Dolares - 361,263)"
+    },
+    {
+      "ID": "403",
+      "NAME": "Pere Milla",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Elche",
+      "AGE": "29",
+      "WEEK": "Euros -  6,538 (Libras -  5,775, Dolares - 6,947)",
+      "YEAR": "Euros -  340,000 (Libras -  300,284, Dolares - 361,263)"
+    },
+    {
+      "ID": "404",
+      "NAME": "Pathé Ciss",
+      "COUNTRY": "sn SEN",
+      "POSITION": "MF,DF",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "28",
+      "WEEK": "Euros -  6,538 (Libras -  5,775, Dolares - 6,947)",
+      "YEAR": "Euros -  340,000 (Libras -  300,284, Dolares - 361,263)"
+    },
+    {
+      "ID": "405",
+      "NAME": "Jaume Costa",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Mallorca",
+      "AGE": "34",
+      "WEEK": "Euros -  6,346 (Libras -  5,605, Dolares - 6,743)",
+      "YEAR": "Euros -  330,000 (Libras -  291,453, Dolares - 350,638)"
+    },
+    {
+      "ID": "406",
+      "NAME": "Iván Balliu",
+      "COUNTRY": "al ALB",
+      "POSITION": "DF",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "30",
+      "WEEK": "Euros -  6,346 (Libras -  5,605, Dolares - 6,743)",
+      "YEAR": "Euros -  330,000 (Libras -  291,453, Dolares - 350,638)"
+    },
+    {
+      "ID": "407",
+      "NAME": "David Gil",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Cádiz",
+      "AGE": "28",
+      "WEEK": "Euros -  6,346 (Libras -  5,605, Dolares - 6,743)",
+      "YEAR": "Euros -  330,000 (Libras -  291,453, Dolares - 350,638)"
+    },
+    {
+      "ID": "408",
+      "NAME": "Lucas Boyé",
+      "COUNTRY": "ar ARG",
+      "POSITION": "FW",
+      "CLUB": "Elche",
+      "AGE": "26",
+      "WEEK": "Euros -  6,154 (Libras -  5,435, Dolares - 6,539)",
+      "YEAR": "Euros -  320,000 (Libras -  282,621, Dolares - 340,012)"
+    },
+    {
+      "ID": "409",
+      "NAME": "Joaquín Fernández",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Valladolid",
+      "AGE": "26",
+      "WEEK": "Euros -  5,962 (Libras -  5,265, Dolares - 6,334)",
+      "YEAR": "Euros -  310,000 (Libras -  273,789, Dolares - 329,387)"
+    },
+    {
+      "ID": "410",
+      "NAME": "Borja García",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Girona",
+      "AGE": "31",
+      "WEEK": "Euros -  5,962 (Libras -  5,265, Dolares - 6,334)",
+      "YEAR": "Euros -  310,000 (Libras -  273,789, Dolares - 329,387)"
+    },
+    {
+      "ID": "411",
+      "NAME": "Alex Sola",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Real Sociedad",
+      "AGE": "23",
+      "WEEK": "Euros -  5,962 (Libras -  5,265, Dolares - 6,334)",
+      "YEAR": "Euros -  310,000 (Libras -  273,789, Dolares - 329,387)"
+    },
+    {
+      "ID": "412",
+      "NAME": "Ander Barrenetxea",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF,FW",
+      "CLUB": "Real Sociedad",
+      "AGE": "20",
+      "WEEK": "Euros -  5,962 (Libras -  5,265, Dolares - 6,334)",
+      "YEAR": "Euros -  310,000 (Libras -  273,789, Dolares - 329,387)"
+    },
+    {
+      "ID": "413",
+      "NAME": "Monchu",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Valladolid",
+      "AGE": "22",
+      "WEEK": "Euros -  5,769 (Libras -  5,095, Dolares - 6,130)",
+      "YEAR": "Euros -  300,000 (Libras -  264,957, Dolares - 318,762)"
+    },
+    {
+      "ID": "414",
+      "NAME": "Dominik Greif",
+      "COUNTRY": "sk SVK",
+      "POSITION": "GK",
+      "CLUB": "Mallorca",
+      "AGE": "25",
+      "WEEK": "Euros -  5,769 (Libras -  5,095, Dolares - 6,130)",
+      "YEAR": "Euros -  300,000 (Libras -  264,957, Dolares - 318,762)"
+    },
+    {
+      "ID": "415",
+      "NAME": "Gorka Guruzeta",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW",
+      "CLUB": "Athletic Club",
+      "AGE": "25",
+      "WEEK": "Euros -  5,769 (Libras -  5,095, Dolares - 6,130)",
+      "YEAR": "Euros -  300,000 (Libras -  264,957, Dolares - 318,762)"
+    },
+    {
+      "ID": "416",
+      "NAME": "El Bilal Touré",
+      "COUNTRY": "ml MLI",
+      "POSITION": "FW",
+      "CLUB": "Almería",
+      "AGE": "20",
+      "WEEK": "Euros -  5,769 (Libras -  5,095, Dolares - 6,130)",
+      "YEAR": "Euros -  300,000 (Libras -  264,957, Dolares - 318,762)"
+    },
+    {
+      "ID": "417",
+      "NAME": "Houboulang Mendes",
+      "COUNTRY": "fr FRA",
+      "POSITION": "DF",
+      "CLUB": "Almería",
+      "AGE": "24",
+      "WEEK": "Euros -  5,769 (Libras -  5,095, Dolares - 6,130)",
+      "YEAR": "Euros -  300,000 (Libras -  264,957, Dolares - 318,762)"
+    },
+    {
+      "ID": "418",
+      "NAME": "Carlos Dominguez",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Celta Vigo",
+      "AGE": "21",
+      "WEEK": "Euros -  5,769 (Libras -  5,095, Dolares - 6,130)",
+      "YEAR": "Euros -  300,000 (Libras -  264,957, Dolares - 318,762)"
+    },
+    {
+      "ID": "419",
+      "NAME": "Shon Weissman",
+      "COUNTRY": "il ISR",
+      "POSITION": "FW",
+      "CLUB": "Valladolid",
+      "AGE": "26",
+      "WEEK": "Euros -  5,577 (Libras -  4,925, Dolares - 5,926)",
+      "YEAR": "Euros -  290,000 (Libras -  256,125, Dolares - 308,136)"
+    },
+    {
+      "ID": "420",
+      "NAME": "Tete Morente",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,DF",
+      "CLUB": "Elche",
+      "AGE": "25",
+      "WEEK": "Euros -  5,577 (Libras -  4,925, Dolares - 5,926)",
+      "YEAR": "Euros -  290,000 (Libras -  256,125, Dolares - 308,136)"
+    },
+    {
+      "ID": "421",
+      "NAME": "Cristhian Stuani",
+      "COUNTRY": "uy URU",
+      "POSITION": "FW",
+      "CLUB": "Girona",
+      "AGE": "35",
+      "WEEK": "Euros -  5,577 (Libras -  4,925, Dolares - 5,926)",
+      "YEAR": "Euros -  290,000 (Libras -  256,125, Dolares - 308,136)"
+    },
+    {
+      "ID": "422",
+      "NAME": "Juanpe",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Girona",
+      "AGE": "31",
+      "WEEK": "Euros -  5,577 (Libras -  4,925, Dolares - 5,926)",
+      "YEAR": "Euros -  290,000 (Libras -  256,125, Dolares - 308,136)"
+    },
+    {
+      "ID": "423",
+      "NAME": "Bebé",
+      "COUNTRY": "cv CPV",
+      "POSITION": "FW",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "32",
+      "WEEK": "Euros -  5,385 (Libras -  4,756, Dolares - 5,721)",
+      "YEAR": "Euros -  280,000 (Libras -  247,293, Dolares - 297,511)"
+    },
+    {
+      "ID": "424",
+      "NAME": "Mohamed Ali Cho",
+      "COUNTRY": "fr FRA",
+      "POSITION": "FW",
+      "CLUB": "Real Sociedad",
+      "AGE": "18",
+      "WEEK": "Euros -  5,385 (Libras -  4,756, Dolares - 5,721)",
+      "YEAR": "Euros -  280,000 (Libras -  247,293, Dolares - 297,511)"
+    },
+    {
+      "ID": "425",
+      "NAME": "Leonardo Román",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Mallorca",
+      "AGE": "22",
+      "WEEK": "Euros -  5,192 (Libras -  4,586, Dolares - 5,517)",
+      "YEAR": "Euros -  270,000 (Libras -  238,461, Dolares - 286,885)"
+    },
+    {
+      "ID": "426",
+      "NAME": "Luca de la Torre",
+      "COUNTRY": "us USA",
+      "POSITION": "MF",
+      "CLUB": "Celta Vigo",
+      "AGE": "24",
+      "WEEK": "Euros -  5,192 (Libras -  4,586, Dolares - 5,517)",
+      "YEAR": "Euros -  270,000 (Libras -  238,461, Dolares - 286,885)"
+    },
+    {
+      "ID": "427",
+      "NAME": "Renato Tapia",
+      "COUNTRY": "pe PER",
+      "POSITION": "MF,DF",
+      "CLUB": "Celta Vigo",
+      "AGE": "27",
+      "WEEK": "Euros -  5,000 (Libras -  4,416, Dolares - 5,313)",
+      "YEAR": "Euros -  260,000 (Libras -  229,629, Dolares - 276,260)"
+    },
+    {
+      "ID": "428",
+      "NAME": "Lee Kangin",
+      "COUNTRY": "kr KOR",
+      "POSITION": "MF,FW",
+      "CLUB": "Mallorca",
+      "AGE": "21",
+      "WEEK": "Euros -  4,808 (Libras -  4,246, Dolares - 5,108)",
+      "YEAR": "Euros -  250,000 (Libras -  220,797, Dolares - 265,635)"
+    },
+    {
+      "ID": "429",
+      "NAME": "Stefan Mitrović",
+      "COUNTRY": "rs SRB",
+      "POSITION": "DF",
+      "CLUB": "Getafe",
+      "AGE": "32",
+      "WEEK": "Euros -  4,808 (Libras -  4,246, Dolares - 5,108)",
+      "YEAR": "Euros -  250,000 (Libras -  220,797, Dolares - 265,635)"
+    },
+    {
+      "ID": "430",
+      "NAME": "Bernardo Espinosa",
+      "COUNTRY": "co COL",
+      "POSITION": "DF",
+      "CLUB": "Girona",
+      "AGE": "33",
+      "WEEK": "Euros -  4,808 (Libras -  4,246, Dolares - 5,108)",
+      "YEAR": "Euros -  250,000 (Libras -  220,797, Dolares - 265,635)"
+    },
+    {
+      "ID": "431",
+      "NAME": "Édgar González",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Betis",
+      "AGE": "25",
+      "WEEK": "Euros -  4,808 (Libras -  4,246, Dolares - 5,108)",
+      "YEAR": "Euros -  250,000 (Libras -  220,797, Dolares - 265,635)"
+    },
+    {
+      "ID": "432",
+      "NAME": "Unai Vencedor Paris",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Athletic Club",
+      "AGE": "21",
+      "WEEK": "Euros -  4,615 (Libras -  4,076, Dolares - 4,904)",
+      "YEAR": "Euros -  240,000 (Libras -  211,965, Dolares - 255,009)"
+    },
+    {
+      "ID": "433",
+      "NAME": "Nicolás Fernández Mercau",
+      "POSITION": "LB",
+      "CLUB": "Elche",
+      "AGE": "22",
+      "WEEK": "Euros -  4,615 (Libras -  4,076, Dolares - 4,904)",
+      "YEAR": "Euros -  240,000 (Libras -  211,965, Dolares - 255,009)"
+    },
+    {
+      "ID": "434",
+      "NAME": "Fernando",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Almería",
+      "AGE": "32",
+      "WEEK": "Euros -  4,615 (Libras -  4,076, Dolares - 4,904)",
+      "YEAR": "Euros -  240,000 (Libras -  211,965, Dolares - 255,009)"
+    },
+    {
+      "ID": "435",
+      "NAME": "Andoni Zubiaurre",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Real Sociedad",
+      "AGE": "25",
+      "WEEK": "Euros -  4,615 (Libras -  4,076, Dolares - 4,904)",
+      "YEAR": "Euros -  240,000 (Libras -  211,965, Dolares - 255,009)"
+    },
+    {
+      "ID": "436",
+      "NAME": "Víctor Chust",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Cádiz",
+      "AGE": "22",
+      "WEEK": "Euros -  4,615 (Libras -  4,076, Dolares - 4,904)",
+      "YEAR": "Euros -  240,000 (Libras -  211,965, Dolares - 255,009)"
+    },
+    {
+      "ID": "437",
+      "NAME": "Williot Swedberg",
+      "COUNTRY": "se SWE",
+      "POSITION": "MF",
+      "CLUB": "Celta Vigo",
+      "AGE": "18",
+      "WEEK": "Euros -  4,615 (Libras -  4,076, Dolares - 4,904)",
+      "YEAR": "Euros -  240,000 (Libras -  211,965, Dolares - 255,009)"
+    },
+    {
+      "ID": "438",
+      "NAME": "Abdón Prats",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Mallorca",
+      "AGE": "29",
+      "WEEK": "Euros -  4,423 (Libras -  3,906, Dolares - 4,700)",
+      "YEAR": "Euros -  230,000 (Libras -  203,134, Dolares - 244,384)"
+    },
+    {
+      "ID": "439",
+      "NAME": "Óscar Valentín",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "27",
+      "WEEK": "Euros -  4,423 (Libras -  3,906, Dolares - 4,700)",
+      "YEAR": "Euros -  230,000 (Libras -  203,134, Dolares - 244,384)"
+    },
+    {
+      "ID": "440",
+      "NAME": "Randy Ntekja",
+      "COUNTRY": "fr FRA",
+      "POSITION": "FW,MF",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "24",
+      "WEEK": "Euros -  4,423 (Libras -  3,906, Dolares - 4,700)",
+      "YEAR": "Euros -  230,000 (Libras -  203,134, Dolares - 244,384)"
+    },
+    {
+      "ID": "441",
+      "NAME": "Aleix Vidal",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,FW",
+      "CLUB": "Espanyol",
+      "AGE": "32",
+      "WEEK": "Euros -  4,231 (Libras -  3,737, Dolares - 4,495)",
+      "YEAR": "Euros -  220,000 (Libras -  194,302, Dolares - 233,759)"
+    },
+    {
+      "ID": "442",
+      "NAME": "Pablo Torre",
+      "POSITION": "AM",
+      "CLUB": "Barcelona",
+      "AGE": "19",
+      "WEEK": "Euros -  4,038 (Libras -  3,567, Dolares - 4,291)",
+      "YEAR": "Euros -  210,000 (Libras -  185,470, Dolares - 223,133)"
+    },
+    {
+      "ID": "443",
+      "NAME": "Copete",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Mallorca",
+      "AGE": "22",
+      "WEEK": "Euros -  4,038 (Libras -  3,567, Dolares - 4,291)",
+      "YEAR": "Euros -  210,000 (Libras -  185,470, Dolares - 223,133)"
+    },
+    {
+      "ID": "444",
+      "NAME": "Axel Werner",
+      "COUNTRY": "ar ARG",
+      "POSITION": "GK",
+      "CLUB": "Elche",
+      "AGE": "26",
+      "WEEK": "Euros -  4,038 (Libras -  3,567, Dolares - 4,291)",
+      "YEAR": "Euros -  210,000 (Libras -  185,470, Dolares - 223,133)"
+    },
+    {
+      "ID": "445",
+      "NAME": "Gerard Gumbau",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Elche",
+      "AGE": "27",
+      "WEEK": "Euros -  4,038 (Libras -  3,567, Dolares - 4,291)",
+      "YEAR": "Euros -  210,000 (Libras -  185,470, Dolares - 223,133)"
+    },
+    {
+      "ID": "446",
+      "NAME": "Pedro Bigas",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Elche",
+      "AGE": "31",
+      "WEEK": "Euros -  4,038 (Libras -  3,567, Dolares - 4,291)",
+      "YEAR": "Euros -  210,000 (Libras -  185,470, Dolares - 223,133)"
+    },
+    {
+      "ID": "447",
+      "NAME": "Juanmi Latasa",
+      "POSITION": "CF",
+      "CLUB": "Getafe",
+      "AGE": "21",
+      "WEEK": "Euros -  4,038 (Libras -  3,567, Dolares - 4,291)",
+      "YEAR": "Euros -  210,000 (Libras -  185,470, Dolares - 223,133)"
+    },
+    {
+      "ID": "448",
+      "NAME": "Javi",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Girona",
+      "AGE": "24",
+      "WEEK": "Euros -  4,038 (Libras -  3,567, Dolares - 4,291)",
+      "YEAR": "Euros -  210,000 (Libras -  185,470, Dolares - 223,133)"
+    },
+    {
+      "ID": "449",
+      "NAME": "Momo Mbaye",
+      "POSITION": "CB",
+      "CLUB": "Cádiz",
+      "AGE": "24",
+      "WEEK": "Euros -  4,038 (Libras -  3,567, Dolares - 4,291)",
+      "YEAR": "Euros -  210,000 (Libras -  185,470, Dolares - 223,133)"
+    },
+    {
+      "ID": "450",
+      "NAME": "Joan García",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Espanyol",
+      "AGE": "21",
+      "WEEK": "Euros -  3,846 (Libras -  3,397, Dolares - 4,087)",
+      "YEAR": "Euros -  200,000 (Libras -  176,638, Dolares - 212,508)"
+    },
+    {
+      "ID": "451",
+      "NAME": "Santiago Arzamendia",
+      "COUNTRY": "py PAR",
+      "POSITION": "DF,MF",
+      "CLUB": "Cádiz",
+      "AGE": "24",
+      "WEEK": "Euros -  3,846 (Libras -  3,397, Dolares - 4,087)",
+      "YEAR": "Euros -  200,000 (Libras -  176,638, Dolares - 212,508)"
+    },
+    {
+      "ID": "452",
+      "NAME": "Abdessamad Ezzalzouli",
+      "COUNTRY": "ma MAR",
+      "POSITION": "FW,MF",
+      "CLUB": "Osasuna",
+      "AGE": "20",
+      "WEEK": "Euros -  3,462 (Libras -  3,057, Dolares - 3,678)",
+      "YEAR": "Euros -  180,000 (Libras -  158,974, Dolares - 191,257)"
+    },
+    {
+      "ID": "453",
+      "NAME": "Pablo Ibáñez",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Osasuna",
+      "AGE": "23",
+      "WEEK": "Euros -  3,462 (Libras -  3,057, Dolares - 3,678)",
+      "YEAR": "Euros -  180,000 (Libras -  158,974, Dolares - 191,257)"
+    },
+    {
+      "ID": "454",
+      "NAME": "Aitor Paredes",
+      "POSITION": "CB",
+      "CLUB": "Athletic Club",
+      "AGE": "22",
+      "WEEK": "Euros -  3,462 (Libras -  3,057, Dolares - 3,678)",
+      "YEAR": "Euros -  180,000 (Libras -  158,974, Dolares - 191,257)"
+    },
+    {
+      "ID": "455",
+      "NAME": "Ángel Algobia",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Getafe",
+      "AGE": "23",
+      "WEEK": "Euros -  3,462 (Libras -  3,057, Dolares - 3,678)",
+      "YEAR": "Euros -  180,000 (Libras -  158,974, Dolares - 191,257)"
+    },
+    {
+      "ID": "456",
+      "NAME": "Iglesias",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Getafe",
+      "AGE": "24",
+      "WEEK": "Euros -  3,462 (Libras -  3,057, Dolares - 3,678)",
+      "YEAR": "Euros -  180,000 (Libras -  158,974, Dolares - 191,257)"
+    },
+    {
+      "ID": "457",
+      "NAME": "Samu Costa",
+      "COUNTRY": "pt POR",
+      "POSITION": "MF",
+      "CLUB": "Almería",
+      "AGE": "21",
+      "WEEK": "Euros -  3,462 (Libras -  3,057, Dolares - 3,678)",
+      "YEAR": "Euros -  180,000 (Libras -  158,974, Dolares - 191,257)"
+    },
+    {
+      "ID": "458",
+      "NAME": "Ibrahima Kebe",
+      "COUNTRY": "ml MLI",
+      "POSITION": "DM",
+      "CLUB": "Girona",
+      "AGE": "22",
+      "WEEK": "Euros -  3,462 (Libras -  3,057, Dolares - 3,678)",
+      "YEAR": "Euros -  180,000 (Libras -  158,974, Dolares - 191,257)"
+    },
+    {
+      "ID": "459",
+      "NAME": "Pol Lozano",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Espanyol",
+      "AGE": "22",
+      "WEEK": "Euros -  3,462 (Libras -  3,057, Dolares - 3,678)",
+      "YEAR": "Euros -  180,000 (Libras -  158,974, Dolares - 191,257)"
+    },
+    {
+      "ID": "460",
+      "NAME": "Sergio Akieme",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Almería",
+      "AGE": "24",
+      "WEEK": "Euros -  3,269 (Libras -  2,887, Dolares - 3,474)",
+      "YEAR": "Euros -  170,000 (Libras -  150,142, Dolares - 180,632)"
+    },
+    {
+      "ID": "461",
+      "NAME": "Francisco Garcia",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "22",
+      "WEEK": "Euros -  3,269 (Libras -  2,887, Dolares - 3,474)",
+      "YEAR": "Euros -  170,000 (Libras -  150,142, Dolares - 180,632)"
+    },
+    {
+      "ID": "462",
+      "NAME": "Isaac Palazón Camacho",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "27",
+      "WEEK": "Euros -  3,269 (Libras -  2,887, Dolares - 3,474)",
+      "YEAR": "Euros -  170,000 (Libras -  150,142, Dolares - 180,632)"
+    },
+    {
+      "ID": "463",
+      "NAME": "Iván Fresneda",
+      "POSITION": "RB",
+      "CLUB": "Valladolid",
+      "AGE": "17",
+      "WEEK": "Euros -  3,077 (Libras -  2,718, Dolares - 3,269)",
+      "YEAR": "Euros -  160,000 (Libras -  141,310, Dolares - 170,006)"
+    },
+    {
+      "ID": "464",
+      "NAME": "Alejandro Balde",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Barcelona",
+      "AGE": "18",
+      "WEEK": "Euros -  3,077 (Libras -  2,718, Dolares - 3,269)",
+      "YEAR": "Euros -  160,000 (Libras -  141,310, Dolares - 170,006)"
+    },
+    {
+      "ID": "465",
+      "NAME": "Ander Iru",
+      "POSITION": "GK",
+      "CLUB": "Athletic Club",
+      "AGE": "24",
+      "WEEK": "Euros -  3,077 (Libras -  2,718, Dolares - 3,269)",
+      "YEAR": "Euros -  160,000 (Libras -  141,310, Dolares - 170,006)"
+    },
+    {
+      "ID": "466",
+      "NAME": "John Nwankwo",
+      "POSITION": "CB",
+      "CLUB": "Elche",
+      "AGE": "21",
+      "WEEK": "Euros -  3,077 (Libras -  2,718, Dolares - 3,269)",
+      "YEAR": "Euros -  160,000 (Libras -  141,310, Dolares - 170,006)"
+    },
+    {
+      "ID": "467",
+      "NAME": "Diego Fuoli",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Almería",
+      "AGE": "24",
+      "WEEK": "Euros -  3,077 (Libras -  2,718, Dolares - 3,269)",
+      "YEAR": "Euros -  160,000 (Libras -  141,310, Dolares - 170,006)"
+    },
+    {
+      "ID": "468",
+      "NAME": "Gui Guedes",
+      "COUNTRY": "pt POR",
+      "POSITION": "CM",
+      "CLUB": "Almería",
+      "AGE": "20",
+      "WEEK": "Euros -  3,077 (Libras -  2,718, Dolares - 3,269)",
+      "YEAR": "Euros -  160,000 (Libras -  141,310, Dolares - 170,006)"
+    },
+    {
+      "ID": "469",
+      "NAME": "Marko Milovanovic",
+      "POSITION": "CF",
+      "CLUB": "Almería",
+      "AGE": "19",
+      "WEEK": "Euros -  3,077 (Libras -  2,718, Dolares - 3,269)",
+      "YEAR": "Euros -  160,000 (Libras -  141,310, Dolares - 170,006)"
+    },
+    {
+      "ID": "470",
+      "NAME": "Martin Svidersky",
+      "POSITION": "DM",
+      "CLUB": "Almería",
+      "AGE": "19",
+      "WEEK": "Euros -  3,077 (Libras -  2,718, Dolares - 3,269)",
+      "YEAR": "Euros -  160,000 (Libras -  141,310, Dolares - 170,006)"
+    },
+    {
+      "ID": "471",
+      "NAME": "Arnau Martinez",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Girona",
+      "AGE": "19",
+      "WEEK": "Euros -  3,077 (Libras -  2,718, Dolares - 3,269)",
+      "YEAR": "Euros -  160,000 (Libras -  141,310, Dolares - 170,006)"
+    },
+    {
+      "ID": "472",
+      "NAME": "Toni Fuidias",
+      "POSITION": "GK",
+      "CLUB": "Girona",
+      "AGE": "21",
+      "WEEK": "Euros -  3,077 (Libras -  2,718, Dolares - 3,269)",
+      "YEAR": "Euros -  160,000 (Libras -  141,310, Dolares - 170,006)"
+    },
+    {
+      "ID": "473",
+      "NAME": "Andrés Martín",
+      "COUNTRY": "es ESP",
+      "POSITION": "FW,MF",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "23",
+      "WEEK": "Euros -  3,077 (Libras -  2,718, Dolares - 3,269)",
+      "YEAR": "Euros -  160,000 (Libras -  141,310, Dolares - 170,006)"
+    },
+    {
+      "ID": "474",
+      "NAME": "Mario Hernández",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF,FW",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "23",
+      "WEEK": "Euros -  3,077 (Libras -  2,718, Dolares - 3,269)",
+      "YEAR": "Euros -  160,000 (Libras -  141,310, Dolares - 170,006)"
+    },
+    {
+      "ID": "475",
+      "NAME": "Cristhian Mosquera",
+      "COUNTRY": "co COL",
+      "POSITION": "DF",
+      "CLUB": "Valencia",
+      "AGE": "18",
+      "WEEK": "Euros -  3,077 (Libras -  2,718, Dolares - 3,269)",
+      "YEAR": "Euros -  160,000 (Libras -  141,310, Dolares - 170,006)"
+    },
+    {
+      "ID": "476",
+      "NAME": "Kike Saverio",
+      "COUNTRY": "es ESP",
+      "POSITION": "LW",
+      "CLUB": "Osasuna",
+      "AGE": "23",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    },
+    {
+      "ID": "477",
+      "NAME": "Álvaro Aguado",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Valladolid",
+      "AGE": "26",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    },
+    {
+      "ID": "478",
+      "NAME": "Diego González",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Elche",
+      "AGE": "27",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    },
+    {
+      "ID": "479",
+      "NAME": "Enzo Roco",
+      "COUNTRY": "cl CHI",
+      "POSITION": "DF",
+      "CLUB": "Elche",
+      "AGE": "29",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    },
+    {
+      "ID": "480",
+      "NAME": "Gonzalo Verdú",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF",
+      "CLUB": "Elche",
+      "AGE": "33",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    },
+    {
+      "ID": "481",
+      "NAME": "Helibelton Palacios",
+      "COUNTRY": "co COL",
+      "POSITION": "DF",
+      "CLUB": "Elche",
+      "AGE": "29",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    },
+    {
+      "ID": "482",
+      "NAME": "Josan",
+      "COUNTRY": "es ESP",
+      "POSITION": "DF,MF",
+      "CLUB": "Elche",
+      "AGE": "32",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    },
+    {
+      "ID": "483",
+      "NAME": "Diego Conde",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Getafe",
+      "AGE": "23",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    },
+    {
+      "ID": "484",
+      "NAME": "Arnau Puigmal",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,DF",
+      "CLUB": "Almería",
+      "AGE": "21",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    },
+    {
+      "ID": "485",
+      "NAME": "Largie Ramazani",
+      "COUNTRY": "be BEL",
+      "POSITION": "FW,MF",
+      "CLUB": "Almería",
+      "AGE": "21",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    },
+    {
+      "ID": "486",
+      "NAME": "Srđan Babić",
+      "COUNTRY": "rs SRB",
+      "POSITION": "DF",
+      "CLUB": "Almería",
+      "AGE": "26",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    },
+    {
+      "ID": "487",
+      "NAME": "Aleix García",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Girona",
+      "AGE": "25",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    },
+    {
+      "ID": "488",
+      "NAME": "Ramón Terrats",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Girona",
+      "AGE": "21",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    },
+    {
+      "ID": "489",
+      "NAME": "Samuel Sáiz",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF",
+      "CLUB": "Girona",
+      "AGE": "31",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    },
+    {
+      "ID": "490",
+      "NAME": "Santiago Bueno",
+      "COUNTRY": "uy URU",
+      "POSITION": "DF",
+      "CLUB": "Girona",
+      "AGE": "23",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    },
+    {
+      "ID": "491",
+      "NAME": "Valery",
+      "COUNTRY": "es ESP",
+      "POSITION": "MF,DF",
+      "CLUB": "Girona",
+      "AGE": "22",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    },
+    {
+      "ID": "492",
+      "NAME": "Morro",
+      "COUNTRY": "es ESP",
+      "POSITION": "GK",
+      "CLUB": "Rayo Vallecano",
+      "AGE": "21",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    },
+    {
+      "ID": "493",
+      "NAME": "Rui Silva",
+      "COUNTRY": "pt POR",
+      "POSITION": "GK",
+      "CLUB": "Betis",
+      "AGE": "28",
+      "WEEK": "Euros -  2,981 (Libras -  2,633, Dolares - 3,167)",
+      "YEAR": "Euros -  155,000 (Libras -  136,894, Dolares - 164,693)"
+    }
+  ]
+}
